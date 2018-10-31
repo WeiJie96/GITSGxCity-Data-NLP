@@ -1,0 +1,733 @@
+
+2. Anti-Aging 
+Medicines 
+Advancing Health by 
+Turning Back Time 
+
+
+The legend of the restorative 
+powers of the Fountain of 
+Youth has 
+fascinated human 
+civilization 
+throughout the generations, dating 
+all 
+the way 
+back to the Greeks (e.g., 
+Herodotus). Other hypothetical conduits for 
+a return to a 
+state of youthfulness (e.g. 
+the 
+Philosopher’s Stone) have 
+featured prominently throughout human 
+civilization 
+as alluring, but equally elusive. Fast forward to 2018, 
+and very recent cutting-edge 
+scientific breakthroughs 
+may, at long last, fundamentally explain why we age. This 
+rapid 
+scientific progress 
+could 
+spawn FDA-approved therapeutics potentially 
+in the 
+next decade, with the 
+primary goal 
+of keeping 
+us younger and alive 
+for 
+longer. 
+
+
+Today, the anti-aging 
+market, 
+while 
+huge 
+(~$200 
+billion 
+globally), is largely restricted 
+to non-therapeutics (cosmetic 
+products 
+and 
+procedures).At the same 
+time, U.S. 
+health spending, which increases 
+significantly with age in 
+concordance with age-
+related diseases (see 
+Figure 
+8), is 
+expected to exceed ~20% of U.S. 
+gross 
+domestic 
+product (GDP) 
+by 2025. Thus, with scientific breakthroughs emerging this 
+decade 
+on the cellular origins 
+of why 
+the tissues in our body’s 
+age, novel anti-aging 
+medicines 
+may become 
+one 
+of the next big disruptions in the 
+healthcare market. 
+
+
+Prior Attempts 
+
+
+There has 
+been a range of prior attempts by the Biopharmaceutical 
+industry over 
+the last several decades to develop anti-aging therapeutics, including the activation 
+of so-called sirtuin proteins (via resveratrol, a component found in red wine) and the 
+enzyme telomerase (increasing healthy cell 
+division 
+by 
+activating telomerase), 
+but 
+all the 
+studies were unsuccessful (see 
+Figure 
+9). However, the science 
+and 
+technology necessary for developing therapies capable of slowing/reversing or 
+potentially preventing the onset of age-related diseases has 
+advanced dramatically 
+in recent years, to a 
+point where effective anti-aging 
+drugs may soon 
+become a 
+reality. 
+
+
+Figure 9. Multiple Biotechs Are Developing Senolytic Therapies, Including Unity Biotechnology 
+and Calico (a Google Venture) 
+
+CompanyTargetMechanism of ActionDevelopment 
+BiotechnologySenescent cellsSpecific elimination of senescent cells via a 
+small molecule inhibitor 
+BiotechnologiesSenescent cellsGene therapy construct designed to induce 
+apoptosis specifically in senescent cells or 
+cancer cellsPreclinical TherapeuticsCell surface 
+markers of 
+senescence 
+Monoclonal antibodies specific for an 
+undisclosed cell surface marker of senescencePreclinical 
+Calico 
+(Google Venture)
+n/aIncreasing lifespan and healthspanPreclinicalSirtris 
+(acquired by GSK in 
+2008)
+SIRT1 and other 
+sirtuinsActivation of sirtuins, specifically SIRT1 (an NAD+ 
+-dependent deacetylase) via synthetic resveratrol 
+(believed to be a natural activator of SIRT1) and 
+small molecule SIRT1 activatorsFailedGeron 
+CorporationTelomerase 
+activationControlled activation of telomeraseFailedSenolytics in 
+DevelopmentPast Failed 
+Attempts for 
+Developing 
+an Anti-Aging 
+Drug
+Source: Citi Research 
+
+© 2018 
+Citigroup 
+
+
+
+1818
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Anti-Aging Players 
+
+
+Many biotech 
+companies, including Unity Biotechnology and Calico (a Google 
+venture), are developing therapies with the 
+goal of extending 
+the 
+human healthspan 
+
+
+— 
+defined 
+as the portion of life lived free of age-related 
+disease. These 
+companies 
+are exploring a number of potentially transformative 
+approaches, including 
+circulating youth factors, mitochondrial 
+dysfunction, and the elimination 
+of a 
+specific 
+cell type 
+called 
+‘senescent cells.’ 
+In our view, targeting these 
+so-called senescent 
+cells, which are 
+believed to be 
+the 
+drivers of numerous 
+age-related diseases, 
+appears 
+to be 
+the 
+most promising anti-aging approach explored thus far (Figure 
+9). 
+Unity 
+Biotechnology 
+is 
+developing 
+a novel 
+class of drugs called ‘senolytics’ 
+that are 
+specifically 
+designed to eliminate senescent cells while 
+sparing the normal 
+surrounding tissues. Recently, Unity advanced 
+its 
+first senolytic into 
+the 
+clinic for 
+osteoarthritis of the 
+knee, a 
+disease 
+that affects over 15 
+million 
+patients in the 
+UnitedStates. If successful, senolytics 
+could become FDA approved and 
+commercially available within the next five 
+years (Figure 
+10). 
+
+
+Figure 10. Potential Timeline to Market for the First Senolytic Drug 
+
+
+This accumulation of senescent cells leads 
+to chronic senescence (as opposed to acute 
+senescence), and scientists have 
+discovered that chronic senescence 
+drives/contributes to age-related diseases 
+
+Source: Citi Research 
+
+Senescent Cells: 
+A Potential Underlying Cause of Age-
+Related Disease? 
+
+
+Senescent cells have 
+been shown to accumulate in tissues 
+with age and are 
+associated with a number of age-related 
+diseases, including 
+atherosclerosis 
+(plaque 
+buildup 
+in artery walls), arthritis, retinal degeneration, Alzheimer’s 
+disease, and 
+many forms 
+of fibrosis 
+(a thickening of connective tissue) 
+(Figure 
+8). The induction 
+of senescence 
+is 
+thought to be an acute defense mechanism 
+against cancer and 
+other forms of cellular dysfunction. 
+To be 
+more specific, in response to 
+stress, cells 
+can 
+permanently stop dividing 
+(i.e., 
+senescence) and therefore provide a barrier to 
+the development of cancer. Senescent cells have also been shown to produce and 
+secrete a distinct cocktail 
+of pro-inflammatory proteins 
+and 
+growth factors (Figure 
+11). 
+
+
+It's hypothesized that these secreted factors are programmed to 
+(1) induce an 
+inflammatory response 
+that can stimulate 
+the 
+clearance 
+of nearby damaged or 
+potentially cancerous tissue and 
+(2) close the 
+loop and then 
+eliminate acute 
+senescent cells 
+after their job is done. Unfortunately, things aren’t so 
+simple, and 
+while the 
+senescent cells 
+should 
+disappear, sometimes 
+they 
+persist in tissues. 
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+19
+This accumulation of senescent cells can lead to chronic 
+senescence (as opposed 
+to acute 
+senescence), 
+and 
+scientists 
+have discovered that chronic senescence 
+drives/contributes 
+to age-related diseases. Therefore, 
+use of 
+drugs that can flush 
+out the chronic 
+senescent cells looks like 
+an attractive therapeutic 
+strategy. 
+
+
+Figure 11. Senescent Cells Cause Damage to Local Tissues by Accumulating and Persistently 
+Secreting Pro-Inflammatory Proteins and Growth Factors 
+
+
+Source: Citi Research 
+
+Selectively Eliminating Senescent Cells Could Prevent and 
+Possibly Reverse 
+Age-Related Disease Progression 
+
+Senolytic drugs 
+are designed to specifically eliminate chronic senescent cells, which 
+could potentially restore treated tissue back 
+to normal function (Figure 
+12). 
+
+
+Figure 12. Senolytic Drugs Are Designed to Specifically Target and Eliminate Senescent Cells 
+
+
+Source: Citi Research 
+
+In pre-clinical 
+animal models, the removal of senescent cells 
+prevented the 
+onset of 
+numerous age-related 
+diseases, including arthritis, cataracts, and 
+kidney 
+dysfunction. Figure 
+13 
+depicts 
+an example 
+of an experiment where two mice born in 
+the 
+same litter were monitored for the development of age-related diseases 
+throughout their lifespan. One 
+mouse (left) was allowed to 
+age normally without any 
+pharmacologic 
+intervention, 
+while 
+the 
+second mouse (right) was treated with a 
+senolytic 
+agent to 
+periodically eliminate senescent cells. Interestingly, the 
+mouse on 
+the right receiving the 
+senolytic agent appears visibly younger and 
+did not develop 
+age-related complications 
+despite 
+being the same age as 
+its 
+littermate on 
+the 
+left. 
+
+
+© 2018 
+Citigroup 
+
+
+
+2020
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Eliminating senescent cells has been shown 
+pre-clinically to prevent the onset of age-
+related disease and restore normal tissue 
+function 
+
+To further support this finding, numerous other high-profile papers 
+conducted 
+in 
+multiple disease 
+models and published in top 
+scientific journals (i.e., 
+Nature, 
+Science) have reached the 
+conclusion that eliminating senescent cells prevents the 
+onset of age-related disease and restores normal tissue function (see Baker, D. J. 
+Nature. 2011 and Chang 
+J. Nature Medicine 2016). One study even found that 
+clearance of senescent cells led to a 
+significant increase (~35%) in 
+median 
+lifespan 
+(Baker, D. J. Nature. 2016). 
+Taken together, we believe the preclinical 
+evidence 
+supporting a role 
+for senescent cells 
+in 
+aging is unusually 
+strong. 
+
+
+Figure 13. Senescent Cells Have Been Shown to Contribute to Age-Related Diseases in Animal 
+Studies 
+
+
+Source: Citi Research; Darren Baker & Jan van Deursen at Mayo Clinic 
+
+Senolytic Therapies 
+Have Immense Potential, but Proving 
+Safety in Humans Remains 
+a Key Question 
+
+
+Chronic cellular senescence has been 
+associated with aging, but 
+as alluded 
+to 
+above, acute cellular senescence remains an 
+important biological process 
+necessary for cancer surveillance 
+and wound 
+healing. Therefore, the key questions 
+are 
+whether treatment with a senolytic could 
+(1) cause unforeseen adverse effects 
+following the removal of chronic senescent cells and/or (2) disrupt the 
+normal 
+development of acute senescent cells as needed. While 
+clinical data is needed to 
+confirm 
+safety in 
+humans, senolytics have 
+demonstrated remarkably clean 
+safety 
+profiles 
+in preclinical animal 
+models thus far, with no reported adverse effects 
+across 
+numerous studies 
+in 
+separate 
+laboratories. For instance, mice that were 
+treated with a senolytic were observed to have 
+a similar rate 
+of cancer incidence as 
+their untreated 
+counterparts. And senescent cells were found to re-accumulate 
+following the withdrawal of the 
+senolytic 
+treatment, indicating 
+that acute senescent 
+cell development was not disrupted, a 
+key 
+positive 
+for safety. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+21
+t should 
+be noted, 
+however, that following senolytic treatment, 
+wounds healed 
+more 
+slowly in mice compared to untreated counterparts (Baker et al. Nature. 2016). 
+Importantly, the wounds 
+healed correctly and thoroughly, but just took 
+longer to 
+resolve. 
+This 
+indicates 
+that the development of acute 
+senescent cells is only briefly 
+interrupted following senolytic 
+treatment. Nonetheless, to 
+sidestep these 
+concerns, 
+the studies 
+being 
+conducted by Unity (and presumably other 
+senolytic 
+drug 
+developers) will 
+avoid patients 
+who have 
+recently undergone 
+surgery (e.g., 
+the risk 
+of inadequate/slow 
+wound healing 
+following senolytic treatment could render 
+emergency 
+surgery or acute 
+injury hazardous, see 
+Figure 
+14). We 
+are expecting the 
+first Phase 1 
+human proof-of-concept data from Unity in 
+the first quarter of 2019 (the 
+trial 
+began in May 2018; Figure 
+9), 
+and this 
+could 
+place the pre-clinical 
+data on 
+wound-healing risk in better perspective. 
+
+
+Another important consideration is 
+the 
+appropriate frequency 
+of dosing with a 
+senolytic. 
+Because 
+the accumulation of senescent cells is thought to occur slowly 
+over months 
+or even years, it is possible that an 
+intermittent 
+dosing approach could 
+be adopted (Figure 
+14). Therefore, treatments might be 
+administered 
+only 
+once 
+or 
+twice a year, or potentially even less frequently, depending 
+on the target indication. 
+And while speculative ahead 
+of initial clinical data, an infrequent dosing 
+scheduled 
+could limit potential 
+safety concerns. 
+
+
+Figure 14. The Dosing Schedule for Senolytics and Whether Adverse Effects Could Arise Post-Dosing Are Key Questions that Will Need to Be 
+Addressed in Clinical Trials 
+
+
+Source: Citi Research 
+
+© 2018 
+Citigroup 
+
+
+
+2222
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+The success of monoclonal antibodies 
+underscores the significant commercial 
+opportunity in age-related diseases and 
+validates the hypothesis that eliminating 
+senescent cells could prevent disease 
+progression 
+
+Multi-Billion Dollar Monoclonal 
+Antibody Franchises 
+Could Be Disrupted if Senolytics Come to Market 
+
+
+Monoclonal antibody therapies such as Humira 
+and 
+Enbrel (both approved for 
+numerous forms 
+of arthritis and psoriasis) and Eylea 
+and 
+Lucentis (both 
+approved 
+for wet age-related macular degeneration 
+and diabetic retinopathy) have become 
+multi-billion dollar drugs 
+both 
+in the U.S. alone 
+and worldwide (Figure 
+15 
+shows 
+
+
+U.S. sales 
+for these representative blockbuster antibodies). Importantly, the 
+commercial success of these 
+antibodies 
+is a key validation for companies targeting 
+age-related diseases with anti-aging therapies 
+because 
+(1) these 
+antibody 
+franchises 
+demonstrate the 
+substantial commercial opportunity within these disease 
+areas and 
+(2) the specific targets of many monoclonal antibodies are, interestingly, 
+produced 
+directly by senescent cells 
+across numerous 
+diseased tissues (Coppe 
+J. 
+P. PLoS Bio. 2008). This implies that treatment with a senolytic therapy 
+could 
+potentially eliminate 
+the 
+source of many monoclonal 
+antibody 
+targets that contribute 
+to disease 
+progression. If this turns 
+out to be 
+the 
+case, senolytics could achieve at 
+least the same 
+goals 
+as the aforementioned 
+antibodies, and 
+potentially more as the 
+antibodies only target one factor (vs. a 
+pool of secretory factors that would go away 
+with elimination 
+of the chronic 
+senescent cells). 
+Figure 15. Multi-Billion Dollar Monoclonal Antibody Franchises Are At Risk for Disruption If 
+Senolytics Come to Market (U.S. Revenues, $bn) 
+
+$8.4$10.4$5.1$5.7$2.7$3.3$1.5$1.4$Source: Citi Research 
+
+First Senolytic Therapy 
+Could Be 
+Approved by 
+2023 
+
+
+The first senolytic therapy in 
+clinical trials is a 
+compound 
+by Unity, UBX0101, which 
+is a 
+small-molecule 
+drug 
+that functions by inducing 
+apoptosis (i.e., 
+programed cell 
+death), 
+specifically in senescent cells. The 
+company is first testing UBX0101 locally 
+in patients with 
+moderate 
+osteoarthritis of the 
+knee, which is 
+a substantially large 
+market (~17 million 
+patients). Initial proof-of-concept data from the Phase 1 trial are 
+expected 
+in 
+the 
+first quarter of 2019. If 
+successful in later clinical development 
+through Phase 
+3, UBX0101 
+could become 
+commercially available 
+by 
+2023. 
+
+While speculative given 
+the 
+novelty of the 
+senolytic therapeutic strategy, a 
+successful therapeutic that could resolve 
+osteoarthritic 
+knees and return knee 
+tissue 
+to a 
+more youthful state 
+could 
+have a 
+negative impact on 
+the 
+knee-replacement 
+surgery 
+market (currently projected 
+to grow to >3 million 
+knee replacements per 
+year by 2030). Because 
+other senolytics are being 
+developed for multiple 
+ophthalmologic (wet AMD, glaucoma, diabetic retinopathy) and pulmonary (COPD, 
+idiopathic 
+pulmonary disease) indications, within the next ~10–20 years patients 
+with a range of age-related diseases 
+may experience a decreased need for 
+therapies 
+now considered 
+standard of care. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+23
+Itay Michaeli 
+
+U.S. Auto and Auto Parts Analyst 
+The Car of the Future promises to address 
+inefficiencies of the Car of Today as well as 
+potentially change personal mobility as we 
+know it 
+
+The auto market of the future will be a 
+combination of RoboTaxi driverless car 
+services, AV Subscriptions and traditional 
+ownership … 
+
+
+… and 
+EVs will be a critical competitive 
+input in all three areas 
+
+We expect RoboTaxis to begin U.S. 
+commercialization in 2018–19 

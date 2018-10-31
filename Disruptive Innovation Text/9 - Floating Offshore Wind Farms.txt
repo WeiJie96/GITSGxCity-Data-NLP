@@ -1,0 +1,666 @@
+8. Floating Offshore Wind Farms 
+The Sea’s the Limit 
+
+
+Current offshore wind turbines are restricted to 
+sea 
+depths 
+of less than 50 meters, 
+significantly restricting where they can 
+be 
+installed. Floating turbines 
+could 
+substantially increase the geographic 
+coverage of offshore 
+wind, including to areas 
+with very deep coast lines 
+like 
+the 
+West coast of the U.S. 
+and Japan, and enabling 
+development into deeper waters in Europe’s North Sea. 
+
+
+Offshore wind installations today account for <4% of total wind installations, with the 
+majority of the wind energy installed base 
+being onshore. With onshore being 
+saturated 
+in 
+many developed countries 
+due to land 
+availability and current offshore 
+technology being limited 
+only to relatively shallow depths, floating offshore 
+could 
+substantially increase the addressable market size 
+for wind, allowing governments 
+to hit 
+their renewable energy targets. Floating offshore turbines could also 
+be 
+installed ‘out of sight', and 
+so 
+get around 
+‘not in 
+my backyard’ 
+(NIMBYism) 
+in wind 
+farms, 
+which are to some 
+seen as visually unappealing. 
+
+
+Some 
+Background 
+
+
+Wind 
+power generation is a 
+key part in 
+achieving government targets for renewable 
+energy, and following years of higher volumes and declining 
+costs, onshore wind 
+power is now cost competitive 
+compared 
+with 
+thermal 
+power in many regions. 
+Onshore wind 
+is, 
+however, 
+now seeing 
+signs of market saturation in 
+certain 
+developed 
+markets 
+— 
+especially in 
+markets like the U.K., 
+where restrictive planning 
+laws introduced in 2015 have 
+substantially curtailed new developments. 
+This has 
+driven a 
+growing focus on 
+offshore wind turbines, 
+which enable both 
+larger 
+structures (hence more power) and the use 
+of the seabed as 
+opposed 
+to land. 
+
+Traditional offshore wind 
+turbines are essentially larger versions of their onshore 
+brethren, 
+but they rely on 
+shallow 
+waters in 
+order to be fixed to the 
+seabed. 
+This 
+has 
+prompted the 
+idea of a floating offshore wind-turbine. 
+The floating offshore wind-
+turbine has two key advantages over the fixed structure, namely access to more 
+productive wind conditions (as better wind conditions tend to 
+be further out at sea), 
+and being further ‘out of sight’, away from residential areas. 
+
+The concept of floating 
+offshore is 
+not new, but 
+the first demonstrator’s 
+being 
+commissioned in Scotland in 2017, the announcement of a demonstrator in Japan 
+in 2018, and the 
+creation 
+of a 
+development consortium in California, also this year, 
+suggest the 
+technology is on 
+the verge 
+of adoption. 
+
+
+© 2018 
+Citigroup 
+
+
+
+5656
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Figure 31. The Floating Offshore Wind-Turbine Figure 32. The Difference in Seabed Depth Limits 
+
+
+Source: Siemens-Gamesa Source: NREL.gov 
+
+A floating offshore wind-farm in Scotland 
+currently powers 20,000 households 
+
+Japan launched an experimental turbine in 
+2013 and is currently considering developing 
+a floating offshore wind-farm 
+
+A 100–150MW floating offshore wind farm is 
+proposed off the coast of California by 2024 
+
+How It Works 
+
+
+The turbine is mounted on a 
+cylinder filled with ballast, while 
+'anchors' (essentially 
+large weights, often 100,000+ tonnes each) are 
+attached to the cylinder to 
+stabilize 
+it 
+on 
+a deeper-water seabed point. Cables 
+connected to the turbine transport power 
+to shore. 
+
+
+How Close to Reality? 
+
+
+The first-ever floating offshore 
+wind-farm was installed and connected in 
+late 2017, 
+located 
+25km off the 
+coast ofAberdeenshire, Scotland. The 
+wind farm involved the 
+installation of five 6 
+megawatt (MW) 
+wind turbines 
+manufactured by Siemens-
+Gamesa, and 
+it 
+has powered 20,000 
+households in the U.K. 
+since its launch. With a 
+capacity factor (which 
+measures actual production versus 
+nameplate/maximum 
+capacity) of 65% achieved in 
+the first three 
+months, this figure far surpasses 
+existing 
+onshore wind farms 
+(generally around 
+30% 
+capacity 
+factor). 
+
+Japan has also been a 
+country aggressively seeking floating 
+wind-power options 
+due to the depth of its waters (~80% 
+of the country's estimated wind resource is 
+deemed to be 
+in 
+deeper water areas). The country launched its first experimental 
+commercial-scale floating wind turbine (2MW) in 2013 
+off the 
+coast of Kabashima 
+Island, and 
+it has recently shown 
+progress for an actual utility-scale wind farm with 
+France's Ideol 
+and 
+Japan's 
+Acacia Renewables signing 
+an 
+memorandum of 
+understanding (MOU) 
+for the development of Japan's first floating offshore wind-
+farm, although 
+construction 
+isn't expected to 
+start until 
+2023. 
+
+In the U.S., the Redwood Coast EnergyAuthority (RCEA) recently selected a 
+consortium (including EDPR Offshore NorthAmerica andAker Solutions) for a 
+proposed 
+100–150MW floating offshore project 20 
+miles off the coast of Eureka, 
+California. 
+The consortium is aiming to complete 
+and 
+connect the wind farm by 
+2024. 
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+57
+Floating wind turbines are gest beginning to 
+be recognized and adopted 
+
+How 
+Well Known? 
+
+
+Being 
+at a relatively nascent stage of adoption, floating wind 
+turbines are “beginning 
+to gain popularity worldwide, already having been 
+adopted 
+in countries like Norway, 
+Portugal and Japan”, according to GE. France has also recently turned toward 
+floating 
+offshore, with the current renewable energy plan (PPE) aiming for 100MW 
+of marine energy (including 
+floating wind turbines) to 
+be installed 
+by 2023. The 
+country is also currently in the 
+process of installing 
+a 24MW 
+test pilot 
+project off the 
+coast of the 
+Leucate/Le Barcares area, which is 
+expected 
+be 
+completed in 
+2020. 
+
+The Offshore division CEO of Siemens-Gamesa, the world's 
+#1 offshore wind 
+turbine OEM, stated that it 
+views 
+the floating wind-farm market “the same way we 
+did with (fixed) offshore wind farms 
+in the early beginning… 
+an initially niche market 
+that may develop over time into a large 
+market,” and 
+that the catalyst for this 
+market 
+to grow bigger would be the cost competitiveness aspect versus 
+the fixed 
+foundation platform. 
+
+How Big Could the 
+Opportunity Be? 
+
+
+Addressable market 
+
+
+The floating offshore wind-market addresses a wide range of water depths of up to 
+200 
+meters, giving 
+it a 
+much larger potential 
+than 
+fixed foundation turbines. The 
+Carbon 
+Trust estimates 
+that the majority of offshore wind resource is only utilizable 
+through floating offshore structures. Northern European countries 
+including the 
+U.K., Germany, 
+and Denmark 
+have been pioneers 
+in using traditional offshore 
+in the 
+North Sea, but over half of the 
+North 
+Sea 
+is 
+at depths inaccessible for traditional 
+offshore, but accessible for floating offshore. 
+
+Figure 33. The Majority of Offshore Wind Potential is in Floating… 
+Figure 34. …An Example Being Europe’s North Sea, where >60% of 
+Offshore Wind Resource is in Deep Waters 
+
+0 
+50 
+100 
+150 
+200 
+250 
+300 
+350 
+400 
+450 
+500 
+Europe USA Japan 
+Cumulative Onshore (2017) Cumulative Offshore (2017) 2050 floating wind target 
+Source: Citi Research, Carbon Trust, JWPA, EWEA; figures in GW (2050 targets for Source: EWEA 
+USA unavailable) 
+
+© 2018 
+Citigroup 
+
+
+
+5858
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Figure 35. The Potential Floating Wind Capacity is Still HUGE (Figures in GW) 
+
+Cumulative 
+Onshore (2017) 
+Cumulative 
+Offshore (2017) 
+2050 Floating 
+Wind Target 
+Potential Floating 
+Wind Capacity 
+Europe has the biggest potential, with 66% 
+of the North See between 50–220m deep 
+
+95% 
+of 
+California’s 
+offshore 
+wind 
+resources 
+
+
+are in 60m+ depths 
+
+Japan is targeting 17.5GW of floating 
+offshore installations by 2050 
+
+Estimates for global installed floating wind-
+power are as high as 3.4GW by 2030 
+
+We think floating offshore will require 
+government subsidies in the early stages of 
+adoption 
+
+Europe 162.3 15.8 460.0 4,000.0 
+U.S. 89.1 0.0 N/A 2,450.0 
+Japan 3.3 0.1 17.5 500.0 
+
+Source: Carbon Trust, Citi Research 
+
+Estimates for addressable 
+markets vary widely by source, and there is a big 
+difference between addressable (sea bed of 60-200 metres) and economically 
+viable 
+— 
+the 
+latter point will 
+subject to turbine pricing, subsidies, and the 
+costs and 
+complexities 
+of grid 
+connection. 
+
+Europe 
+has the 
+largest potential for floating offshore power, with 66% of the North 
+Sea being 
+between 50–220m 
+deep. 
+The EWEA estimates 
+that by 2050, if this deep 
+water space is utilized 
+then this could meet the EU's electricity consumption four 
+times over. 
+
+
+The National Renewable Energy Laboratory (NREL) has conducted various 
+studies 
+predicting the potential 
+for floating 
+offshore in the U.S. One example is 
+in California 
+(the state with the largest economy within the country), where 
+the 
+NREL estimates 
+95% of the state's 
+offshore wind resources 
+are in 60m+ depths, 
+with a potential of 
+more than 
+100GW. 
+
+
+Japan has the sixth-largest sea space 
+globally, with one source estimating 
+1,600GW 
+of potential for the 
+country, although the majority of the 
+surrounding 
+seas 
+are >60m deep. The Japanese 
+Wind Power Association (JWPA) estimates around 
+620GW 
+potential 
+capacity for offshore wind, with 
+520GW 
+for floating 
+offshore alone. 
+Based 
+on this, the JWPAset a roadmap targeting 
+17.5GW 
+of floating 
+offshore 
+installations 
+by 
+2050. 
+
+Consultant 
+MAKE forecasts that some 
+3.4GW 
+of floating wind power could be 
+installed by 2030 globally, and 
+the European 
+Wind EnergyAssociation (EWEA) 
+estimates that by 2050 
+offshore wind capacity in Europe 
+could reach 460GW 
+(which 
+would 
+be roughly 
+sufficient for providing 50% of power demands) through 
+deployment of deep 
+offshore designs (i.e., 
+floating offshore). 
+
+
+Barriers to Adoption 
+
+
+• 
+Subsidies: 
+As with most renewable energy 
+sources, wind energy has relied 
+on 
+government subsidies, usually in the form of guaranteed Feed-in 
+Tariffs or Tax 
+Credits, in the 
+early 
+stages of adoption, and we think floating offshore would be 
+no different. 
+Despite the U.K. 
+being at the forefront of floating wind power adoption, under the 
+current system floating wind farms will be eligible for subsidies 
+only 
+if they start 
+generating power before October of this year. 
+Trade association RenewableUK 
+had officially called for the U.K. 
+government to give an 
+additional 
+grace period of 
+18 months, although 
+the 
+government ruled out any amendments to the current 
+structure, 
+citing the 
+need for the technology to 
+be 
+more 
+cost competitive. 
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+59
+Battery storage and UHVDC connectors are 
+two solutions to wind intermittency 
+
+The Levelized Cost of Energy (LCOE) levels 
+of floating 
+offshore wind are widely 
+expected to 
+go down, although it may be a 
+long time 
+before it gets near cost 
+competitiveness 
+compared 
+with 
+other renewables. WindEurope forecasts LCOEs 
+of floating offshore 
+to decline 
+38% by 2050, and this rate of decline 
+is 
+similar to 
+onshore (-35% by 2050) and 
+fixed offshore (-41%). Equinor, operator of the 
+Hywind floating offshore wind farm, aims to reach LCOE levels of €40-60/MWh 
+for the wind farm by 2030 (levels 
+that are 
+comparable to current onshore wind 
+LCOE levels). 
+
+• 
+Intermittency: Wind 
+power, similar to 
+other renewable energy sources, 
+is 
+disadvantaged 
+by 
+intermittency in nature (i.e., 
+wind does not 
+blow all the time). 
+To compensate, there are various 
+solutions 
+that are under development, such 
+as 
+battery storage and 
+ultra-high-voltage 
+direct current (UHVDC) 
+connectors (to 
+balance with other uncorrelated renewable sources like solar). Utility-scale 
+storage solutions are still in 
+their nascent stage of adoption 
+and are generally 
+considered to be expensive, although costs are expected 
+to come 
+down as these 
+solutions become 
+more prevalent. 
+Winners and Losers 
+Winners 
+
+• 
+Turbine OEMs: 
+Floating 
+offshore technology presents new opportunities 
+for the 
+global wind turbine OEM players, especially to those 
+that 
+currently have 
+exposure to the fixed offshore 
+business. 
+• 
+HVDC 
+/ cable / interconnects: 
+There are a few different types of cables and 
+equipment involved in the power transmission process. Inter array cables interconnect 
+the 
+turbines within the wind farm, through which electricity generated 
+goes through to the transformer. From the transformer the 
+electricity goes 
+through export cables, which 
+then 
+are delivered to 
+shore. Given the longer 
+distance of floating offshore turbines from 
+shore, cable costs 
+will be of much 
+more 
+significance, especially when considering 
+that it costs 
+around $2 
+million/km 
+for an HVDC cable. 
+• 
+Energy storage: 
+The intermittent nature 
+of wind power necessitates increased 
+means of energy storage 
+to 
+compensate. The 
+most recent example of a large-
+scale battery project is 
+Tesla's 
+100MW-scale 'giant battery' connected to 
+a 
+325MW wind farm in SouthAustralia, with the battery cost estimated to be 
+around $50 
+million. IRENA estimates that global battery storage technology 
+could 
+reach 
+175GW 
+in 
+2030 
+(a 
+17-fold increase 
+from the 
+2GW 
+in 
+2017). 
+Losers 
+
+• 
+Fossil 
+/ nuclear power generation: 
+Further technological development and 
+reduction in 
+the 
+cost of renewable energy indubitably shifts demand away from 
+traditional fossil fuels 
+and nuclear power, leading to unfavorable prospects for 
+manufacturers of related equipment. 
+© 2018 
+Citigroup 
+
+
+
+6060
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Roger Ashworth 
+
+Head of the Non-Agency Mortgage-Backed 
+Security (MBS) Strategy Team 
+
+Figure 36. Average Days on Market in the 
+
+U.S. Is Declining But Still ~72 Days 
+0102030405060708090100201220132014201520162017
+Source: realtor.com, Citi Research 
+
+Liquidity and transaction speed are 
+meaningful to the average home seller 

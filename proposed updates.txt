@@ -1,0 +1,21 @@
+To-do:
+1) Create a function to determine lists of items. (e.g. (1) ... (2) ... / 1. ... 2. ...)
+
+2) Remove Graphs and images. Usually starts with "Figure:" and ends with "Source:". However, sentence that start with "Source" may appear twice.
+Some Figures do not have a source but generally they come consecutively. Source may span multiple lines.
+
+3) Remove watermark
+
+4) Remove arrow symbols and other symbols.
+
+5) Remove lines that only contain numbers and some auxiliary punctuations. (e.g. 2,3 in text1)
+
+6) Give priority to title case. (but only title case sentences with more than 4 words to filter out names)
+
+7) Remove all questions.
+
+8) Remove all instances of "similar"
+
+9)# Fix the output of txt7
+
+10) replace \n with space but remove double spacing.

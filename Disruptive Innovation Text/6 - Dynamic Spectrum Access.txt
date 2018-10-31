@@ -1,0 +1,1314 @@
+
+5. 
+Dynamic Spectrum Access 
+Potential Airbnb/Uber Style Disruption in the $1 Trillion 
+Wireless Industry 
+
+
+All wireless communications services use electromagnetic radiation — from a 
+simple TV remote or cellular phone up to a satellite. For wireless transmission to 
+work, the transmitter and receiver need to be tuned to the same frequency, and no 
+other device should use close-by frequencies (spectrum band) at a particular point 
+in time and space. Otherwise a clash, also called interference, occurs. Spectrum by 
+default belongs to national governments. While some spectrum bands, such as 
+those used for WiFi, are free to be used by anyone, to avoid the possibility of 
+interference between different users of the same band, some spectrum bands are 
+allocated exclusively. 
+
+Such a framework creates a small group of entities exclusively licensed to use 
+spectrum on a nationwide basis. This is similar to having a small number of hotels 
+or taxi companies exclusively licensed to operate in a particular city. The rationale 
+for such exclusive licensing usually includes security and reliability of service. 
+Innovative technologies like those used by Airbnb and Uber address some of the 
+security and reliability challenges and in turn are able to disrupt the licensed 
+businesses model, possibly making it obsolete. Interference, and hence security 
+and reliability, in wireless communications depend on a range of factors including 
+the power and density of transmitters, frequency bands, landscape, and the design 
+of buildings. Dynamic Spectrum Access (DSA), also known as Dynamic Spectrum 
+Management (DSM), is a technology-empowered framework with the potential to 
+address these complex factors. It allows multiple users to share a particular countrywide 
+spectrum band, ideally in a secure and reliable way. This boosts the efficiency 
+of spectrum utilization and opens wireless opportunities to larger number of players, 
+possibly similar to Airbnb property owners and Uber drivers. 
+
+
+Paradox of the Wireless Industry’s Design 
+
+
+In market economies, there are two groups of assets: private assets that are 
+privately controlled, ideally unregulated, and tradeable (e.g., commodities, 
+properties, consumer products and intellectual rights), and shared assets which are 
+often publicly controlled and heavily regulated (e.g., roads, airports, electricity 
+networks, armed forces, and in the future perhaps certain technology platforms). 
+We see shared assets as being sensible in three cases. The first is for natural 
+monopolies that are prone to sharing, with practically unlimited capacity and 
+adverse consequences if there is duplication, e.g. roads or armed forces. The 
+second is linked to universal service, e.g., the need to connect all homes to an 
+electricity network of a certain standard. The third is linked to industrial policies, 
+which intentionally suppress or fail to encourage local competition in specific areas 
+to build national advantages in global competition, e.g. infrastructure and 
+technology platforms. 
+
+
+The emergence of mass-market wireless technologies has led people to question 
+how spectrum should be treated. Historically, spectrum was a shared asset used by 
+public services such as radio, TV, security, or anybody else in unlicensed bands 
+(used today for example for WiFi). Later on, as part of the ‘creation’ of the wireless 
+industry, some spectrum was set aside, divided into a small number of pan-national 
+exclusively-licensed bands with long-term validity, often with prescribed technology, 
+type of service, and agreed territorial coverage. This spectrum was then exclusively 
+awarded to future wireless operators. 
+
+© 2018 
+Citigroup 
+
+
+
+3838
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+… 
+but can the wireless industry, with its 
+‘privileged’ 
+access to spectrum, now be 
+falling victim to its own success and hitting 
+the limits of its own design? 
+
+Questions about network and spectrum 
+sharing are increasingly pertinent in the 
+context of IoT and 5G 
+
+DSA uses advanced technologies to boost 
+efficiency of spectrum utilization by enabling 
+spectrum-sharing among multiple users 
+
+To encourage capital inflow into this new industry, policymakers chose to treat 
+wireless 
+as 
+a competitive 
+industry and refrained 
+from major regulations. 
+
+Unlike the technology 
+industry, which usually evolves 
+spontaneously around 
+innovative 
+ideas, the wireless industry was basically design-made by policy-makers 
+as part of their effort to build territorial wireless 
+coverage and 
+deliver specific 
+services (e.g., 
+voice 
+and 
+messaging) as fast as possible. 
+
+The wireless 
+industry has undoubtedly 
+been 
+successful in fulfilling 
+its 
+objectives. 
+The vast majority of the world’s population now benefits 
+from mobile 
+coverage 
+(there 
+are currently 
+5.2 
+billion 
+unique mobile users, 
+equal to 
+70% of the world’s 
+population), 
+and data 
+speeds 
+are continuously rising. However, unless the wireless 
+industry 
+can develop 
+new major technology and service-driven growth opportunities 
+(we call them DIGITECCS: 
+Digital 
+Technology, Connectivity 
+and Service), it may in 
+our view fall victim 
+to 
+its 
+own success, by simply fulfilling 
+the 
+objectives it was 
+created for. The design-made 
+nature 
+of the wireless 
+industry 
+is increasingly leading 
+to 
+the 
+need 
+for non-systemic regulatory interventions 
+that 
+tackle 
+oligopolies, 
+coverage/quality issues, 
+and 
+the 
+inefficient use of spectrum. This raises 
+the 
+question about the 
+benefits 
+of the currently-established 
+spectrum ownership 
+privileges 
+of a 
+specific 
+industry with a specific 
+business model. 
+
+In a 
+June 2018 
+report Is the wireless industry facing disruption?: SouthAfrica, 5G, 
+DSA and DIGITECCS inspired debate about wireless 
+we 
+highlighted 
+three key 
+opportunities for wireless expansion: (1) uncovered 
+areas, (2) areas with low-quality 
+coverage, 
+and 
+(3) the use 
+of small cells for industrial 
+innovation. It 
+is 
+not particularly 
+clear to us that the existing model of multiple 
+competing 
+nationwide wireless 
+networks, as leading 
+spectrum owners, is best suited 
+to address 
+any 
+of 
+these. It 
+may appear that designers of the wireless industry wanted to 
+‘square the 
+circle’ 
+by 
+creating 
+a private unregulated 
+industry to provide what is increasingly turning into a 
+public 
+service with extensive government-prescribed coverage and 
+quality targets 
+and obligations. It also appears that the 
+providers 
+of this 
+service 
+may at least in 
+some areas 
+benefit from 
+the 
+concept of asset 
+sharing (due to, for example, 
+natural 
+monopolies in 
+passive 
+infrastructure, 
+desirability of some form of universal 
+service, 
+and industrial policy interests in security and 
+infrastructure investments 
+for the 
+digital economy). Hence, 
+questions about whether spectrum 
+and networks 
+should 
+be shared, and to what degree, remain relevant, especially since wireless 
+growth is 
+becoming scarcer and 
+5G/IoT is prompting 
+the 
+need 
+for a policy re-think. 
+
+
+What Is DSA and How 
+Can It 
+Disrupt? 
+
+
+As we already discussed, spectrum is a finite resource, the 
+sharing of which may 
+cause interference 
+challenges 
+and ultimately degrade the wireless 
+connection 
+quality. This is why certain bands are exclusively assigned to 
+the wireless operators 
+nationwide. However, these 
+exclusive spectrum users 
+have 
+a natural economic 
+incentive to utilize their spectrum more 
+efficiently in 
+areas 
+that are 
+more 
+economically attractive 
+than others. Meanwhile, other (potentially more 
+innovative) 
+users may not have access to 
+spectrum 
+at all, even in areas 
+where it is not utilized 
+by the exclusive owners. In addition, some spectrum 
+cannot be utilized 
+because of 
+its 
+sporadic use by government institutions, for example by the armed forces. 
+
+DSA is a technology-empowered 
+framework designed to address 
+these 
+challenges 
+by using innovative ways of sharing 
+spectrum bands among 
+multiple users, based 
+on 
+technologies such 
+as 
+software, game 
+theory, machine learning, 
+and artificial 
+intelligence (AI). DSA may offer the 
+following capabilities: 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+39
+1. Dynamic spectrum re-allocation between users: 
+Spectrum in 
+specific 
+locations and time points can 
+be flexibly allocated using 
+a 
+tiered system where 
+‘spectrum holders’ 
+are assigned priorities as opposed 
+to exclusivity to 
+use 
+spectrum. Spectrum 
+can 
+be flexibly reallocated to a 
+diverse set of entities, 
+which avoid 
+collision by knowing each 
+other’s needs and flexibly managing 
+channels (cognitive radio) 
+and transmission power. 
+2. Use of imperfect (not entirely interference-clean) spectrum channels: 
+Software-based technologies 
+exist, which could 
+increase reliability and 
+data 
+throughput of imperfect channels 
+by mitigating 
+interference-related 
+imperfections. 
+These 
+technologies are well 
+known to the telecom 
+industry, 
+because 
+they are widely used 
+to prop up 
+performance 
+of copper-based 
+fixed-
+line 
+channels, e.g., 
+vectoring and 
+G.fast. In theory, similar solutions 
+could be 
+deployed in wireless as well. 
+Should the wireless industry brace itself for So far, 
+DSAhas been 
+primarily focused on utilizing underutilized 
+and 
+sporadically 
+DSA-driven Airbnb-and Uber-style used spectrum 
+and 
+in the cleanup of interference but 
+not necessarily 
+in 
+disruptive 
+disruption? ways. Wireless operators 
+could in fact benefit from DSA, which gives them 
+an 
+
+
+opportunity to acquire priority 
+access to 
+more spectrum 
+in 
+specific territories. 
+However, we think that DSA can also 
+strengthen 
+momentum behind regional, 
+community, municipal, 
+and corporate wireless networks, which have so far been 
+operated on unlicensedWiFi spectrum. 
+This 
+may disrupt the 
+wireless 
+industry in the 
+following ways: 
+
+
+1. Creation of a shared wireless economy: 
+Technological 
+progress has led to 
+the 
+emergence of shared 
+economies in areas 
+such as accommodation and 
+transportation. By making spectrum more widely available, 
+DSA could fragment 
+the wireless 
+market 
+and 
+possibly lead 
+to 
+similar opportunities. This could 
+create 
+shared economies with 
+multiple providers of connectivity (accessing spectrum 
+through DSA and connecting radio 
+antennas, 
+for example, 
+to national fiber 
+networks, similar to 
+the 
+use 
+of public roads by Uber cars or water supply in 
+Airbnb 
+properties) and 
+multiple users (e.g., 
+people with devices, which allow 
+connecting 
+to such networks). 
+The phenomenon of small localized networks 
+is 
+not new in telecoms; examples range from 
+metropolitan 
+WiFi to local fiber 
+networks. DSAcould, however, give 
+these 
+networks key attributes that they 
+have been missing so far: 
+spectrum, 
+and subsequently compatibility with the 
+mainstream wireless technology such as 4G and 5G. 
+2. Changes 
+in regulation 
+to limit availability of nationwide exclusive 
+spectrum: 
+DSA opportunities 
+raise two crucial 
+questions for the policymakers. 
+(a) Should low-frequency bands occupied by non-telecom users such as 
+TV 
+also 
+be 
+made available on a DSA-shared basis? (b) Should frequency bands, 
+particularly those above 3.5GHz 
+where blanket nationwide 
+coverage is 
+impractical, be allocated on 
+a 
+DSA-priority basis instead 
+of 
+an 
+exclusivity 
+basis? 
+If the DSA technology proves reliable, it would be hard to argue against 
+these suggestions. However, if these 
+concepts 
+are adopted, the wireless 
+industry may over time lose 
+its privilege to use crucial 
+spectrum exclusively, 
+i.e., 
+it may no longer be able to prevent disruption 
+by withholding 
+access to 
+spectrum from potential 
+disruptors. 
+© 2018 
+Citigroup 
+
+
+
+4040
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+The first major DSA project, CBRS, is 
+currently under way in the U.S. 
+
+3. Creation of an 
+alternative model for 5G 
+small-cell deployments: 
+Wireless 
+operators 
+usually see 5G/IoT small cells 
+(operator-controlled 
+low-powered 
+mobile base stations) as 
+their 
+crucial 
+growth opportunity. We 
+see 
+commercial 
+small-cell opportunities first emerging 
+in industrial innovation (e.g., 
+coverage 
+of 
+production plants) and services (e.g., 
+coverage 
+of airports, hotels, 
+entertainment parks, 
+etc.) Purpose-built networks accessing 
+spectrum via DSA 
+(as opposed to parallel 
+competing 
+networks 
+using exclusive 
+countrywide 
+spectrum) would seem sensible in 
+many cases. 
+These 
+networks 
+may be 
+built 
+by industrial or service companies, tech 
+companies, and 
+small/medium 
+enterprises 
+as a 4G/5G-compatible upgrade of WiFi-based 
+solutions. Even 
+though owners of such 
+networks 
+may 
+have to respect priority rights of other 
+users to 
+their spectrum, in 
+practice this 
+constraint may be manageable, 
+because we are often talking 
+about short-range indoor installations. Priority 
+users may often not even have physical access 
+to 
+these 
+indoor areas. In an 
+extreme case, the wireless 
+market may re-shape toward territorially 
+fragmented, localized high-capacity networks with relatively high efficiency of 
+spectrum utilization under DSA. Meanwhile, nationwide coverage, for example 
+for voice, Internet access, 
+and 
+secured 
+data 
+services, may eventually lean 
+toward a public service 
+using 
+nationwide spectrum. 
+4. Dilution of some of the unique skills of wireless operators: 
+Good wireless 
+operators 
+usually stand out in two areas: (a) their ability to acquire 
+spectrum 
+so 
+that the 
+benefits 
+of owning 
+it outweigh its costs and related obligations 
+as 
+much 
+as possible 
+and 
+(b) their ability to build 
+networks, i.e., 
+add sites at the right pace 
+and to the right locations to maximize returns. DSA may bring more 
+transparency 
+and fragmentation to the spectrum markets and hence reduce 
+potential advantages of specific operators. Moreover, it is 
+possible 
+that the 
+tech 
+industry may 
+gain 
+quality big-data on subscriber locations, geographies etc., 
+which together withAI may allow it to develop 
+‘network planning 
+skills’ 
+and 
+similar toAirbnb or Uber 
+‘manage’ 
+networks with capacity provided by 
+a large 
+number of smaller entities. 
+The tech 
+industry has already been 
+involved 
+in 
+several 
+attempts to dilute the 
+unique 
+nature 
+of the wireless 
+industry’s skills. 
+This 
+involves, for example, localWiFi 
+networks, WiMax, soft SIMs, 
+or mobile virtual 
+network operators (MVNOs). None of 
+this, however, has led to 
+major breakthroughs. This may be because 
+opportunities 
+for the to-be-disruptors 
+may not have 
+been 
+big 
+enough 
+for them to invest sufficient 
+amounts 
+of energy or due 
+to the practical 
+obstacles. In 
+the future, 5G/IoT 
+may bring 
+the opportunities while DSA could help 
+overcome 
+some of the obstacles. 
+
+
+How Close 
+Is DSAto 
+Reality? 
+
+
+The DSA concept has 
+been known for years, but a 
+number of 
+barriers have so far 
+delayed 
+major deployments. The technology 
+still needs to 
+go a long way to prove its 
+ability to 
+significantly 
+have an 
+impact on 
+global 
+Technology, Media & Telecom (TMT) 
+markets.According 
+to the Dynamic Spectrum 
+Alliance, 
+there 
+are currently several 
+dozen 
+DSA-localized deployments 
+spread over all major continents, mostly using 
+TV white space (spectrum allocated for 
+TV broadcast, but practically unused 
+in 
+some bands and territories) for local broadband. Taking 
+this to the 
+next level, the 
+CBRS (Citizens 
+Broadband Radio Service) shared-spectrum scheme is currently 
+being introduced in the United 
+States. It 
+is 
+meant to be 
+suitable for LTE phones, 
+indoor coverage, 
+and 
+small cells. 
+The scheme will initially operate on a 
+150MHz 
+block in the 3.5GHz band, using DSA to 
+create a 
+priority-based system for multiple 
+users of the 
+same spectrum (also 
+see transcript of our interview 
+with CEO of 
+Federated 
+Wireless, which 
+is 
+involved in 
+this project: 
+Federated 
+Wireless 
+Conference Call: Call 
+Transcript and Replay Details 
+from 
+April 2018). 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+41
+CBRS is a priority-driven scheme, which 
+allows multiple users to access the same 
+spectrum bands 
+
+DSA is a global story for years to come, but 
+potency of the technology, backing by the 
+big tech industry, and the need for a policy 
+re-think ahead of 5G are already making it 
+strategically relevant 
+
+Potential of DSA is not yet widely 
+recognized 
+
+The first priority to the CBRS spectrum will 
+go to 
+the 
+original 
+users such 
+as 
+the 
+Navy. Subsequently, other entities 
+could 
+buy second-p0riority access to 
+some 
+of this 
+spectrum in PriorityAccess License (PAL) auctions. Finally, spectrum 
+left vacant by 
+the second priority users is 
+open to 
+a broader range of users. CBRS is expected to 
+help 
+in fixed-wireless access 
+and 
+densification of the wireless networks, but also in 
+a variety of new use 
+cases 
+such as 
+indoor small 
+cells 
+in 
+buildings, in public 
+spaces, 
+and in 
+industrial 
+premises (for IoT). Due to 
+the relatively short range of small 
+cells it 
+may not be practical for priority users 
+to perform physical deployments 
+in 
+many 
+areas, leaving this opportunity 
+under DSAto other parties. 
+The scheme is expected 
+to be 
+operational 
+late this year 
+or early next year. 
+
+The success of CBRS is in 
+our 
+view crucial for further spread of the technology 
+globally. Practically, it may take years for DSA to more significantly influence the 
+way spectrum 
+is 
+allocated 
+or managed 
+around the world. However, we see the 
+following 
+grounds 
+to believe that DSA may be already 
+strategically relevant: 
+
+
+• 
+Theoretical potential of DSA: 
+In the 5G/IoT environment and digital economies, 
+importance of spectrum 
+is 
+likely to rise. DSA can theoretically lead to 
+substantial 
+improvements in spectrum utilization in three ways. Firstly, by allowing 
+multiple 
+users to 
+use the 
+same 
+spectrum by managing 
+to avoid interference. Secondly, by 
+fragmenting and hence boosting 
+the 
+competitive 
+efficiency of the wireless 
+markets. 
+Thirdly, in the 
+longer 
+term, by deploying technologies to 
+boost 
+performance even with some 
+channel interference. In addition, DSA allows 
+the 
+use 
+of spectrum without an expensive 
+‘cleaning process,’ 
+i.e., 
+without covering 
+the 
+cost of equipment, 
+for example, 
+for military users. Finally, 
+a 
+significant part of 
+industrial connectivity innovation has so far been taking place on 
+WLAN (WiFi) as 
+opposed 
+to the wireless operators’ networks. DSAhas 
+the 
+potential to 
+further 
+expand such innovation. 
+• 
+Tech industry’s backing: 
+The CBRS ecosystem was originally founded by 
+companies 
+such as Qualcomm, Nokia, Ericsson, Intel, Google, 
+and Federated 
+Wireless. The Dynamic Spectrum 
+Alliance is currently backed by a number of 
+tech 
+companies including Google, Amazon (joined 
+in 
+June 2018), Microsoft, 
+and 
+Facebook. We think that success 
+of DSA is reasonably 
+strategically important for 
+the tech 
+industry, because it would 
+increase the available bandwidth (hence 
+potential use of software/tech 
+products) 
+and 
+create 
+opportunities 
+for tech 
+companies 
+to 
+manage 
+spectrum allocation, but also reduce 
+the ability of the 
+wireless 
+companies to 
+act as 
+gatekeepers. Given 
+the 
+high valuations 
+and recent 
+stock 
+market volatility in tech, we think that DSA is likely to become even more 
+pertinent for the tech 
+industry, 
+• 
+Need to review spectrum 
+allocation policies 
+ahead of 5G: 
+Finally, spectrum 
+allocation 
+debates, particularly in high frequency bands for 5G small-cell 
+coverage, 
+will become highly relevant in the coming years. If the DSA arguments 
+gain 
+momentum, the 
+technology may disrupt the wireless industry even 
+before 
+the 
+completion 
+of large-scale rollouts, simply by limiting the 
+wireless 
+industry’s 
+ability to acquire 
+spectrum exclusively. 
+How 
+Well 
+Known 
+Is DSA to the Market? 
+
+
+Our recent conversations with 
+telecom operators and investors show that DSA is 
+not yet widely known and understood by the market. 
+While investors’ awareness 
+of 
+the technology is relatively low, wireless operators know it, but — 
+with the possible 
+exception of those 
+in 
+the U.S. 
+— 
+they do 
+not yet see it as 
+material in 
+their strategic 
+planning. That said, some open-minded regulators including 
+the FCC (U.S.), Ofcom 
+(U.K.), and 
+ICASA (SouthAfrica) have been 
+pursuing DSA related opportunities. 
+
+
+© 2018 
+Citigroup 
+
+
+
+4242
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+The ultimate aim of DSA — 
+spectrum 
+abundance — 
+may have an impact on 
+wireless and spectrum assets worth trillions 
+of dollars in the course of boosting the digital 
+economy 
+
+DSA should lower the cost of wireless 
+connectivity and boost innovation 
+
+Restraining 
+the 
+wireless 
+industry’s 
+‘spectrum 
+privileges’ 
+would be a major policy move 
+and would naturally attract opposition 
+
+How Big Can the DSAOpportunity Be? 
+
+
+Spectrum 
+is the 
+key asset of the global wireless industry, whose 
+revenue 
+is 
+in 
+the 
+range 
+of $1 
+trillion, meaning the enterprise 
+value of the world’s wireless operators 
+can 
+be estimated in 
+the 
+single 
+trillions 
+of dollars. The U.S., which accounts for 
+nearly a 
+quarter of the 
+global 
+economy, generates more than 
+$200 
+billion 
+in wireless 
+revenue. 
+The total value of licensed spectrum 
+in 
+the U.S. 
+is around 
+$0.5 
+trillion 
+(source CTIA 2015, adjusted), indicating that all spectrum 
+may be worth trillions 
+of 
+dollars 
+globally. This spectrum 
+value is naturally driven 
+by supply, demand (how it is 
+used), the 
+conditions under which 
+it is awarded, 
+etc. The ultimate 
+aim around DSA, 
+spectrum abundance, may affect the global wireless 
+industry by reducing entry 
+barriers to owning spectrum and inviting 
+new companies 
+into the 
+market.As a 
+result, some spectrum value 
+may shift away from the taxpayer (governments 
+charging 
+for spectrum) and the wireless 
+operators (owners of spectrum) toward the 
+broader economy (including business users) and the tech industry. 
+
+Estimating DSA’s disruptive effect on the wireless industry and its broader positive 
+economic benefits is difficult at this early stage, although 
+the 
+Dynamic Spectrum 
+Alliance, 
+for example, 
+shows a 
+$0.5 
+trillion estimate 
+of economic surplus of the U.S. 
+unlicensed (WiFi) spectrum today. 
+DSA is likely to gain 
+momentum especially if it 
+proves its reliability and shows its 
+broader economic benefits 
+outweigh its 
+costs and 
+disruptive effects. We see its 
+economic benefits 
+in the following categories. 
+
+
+• 
+Lowering of costs 
+and boosting capacity of wireless 
+connectivity by (a) utilizing 
+heavily underutilized spectrum currently used 
+by governments and (b) boosting 
+sharing of private spectrum; and 
+• 
+Fueling innovation 
+by opening 
+wireless 
+markets to 
+new players. 
+What Are the Barriers to DSAAdoption? 
+
+
+Despite being 
+known for many years, DSA is 
+still in early stages 
+of its deployment. 
+This is, inter alia, 
+due 
+to various uncertainties and barriers. Below we highlight the 
+most crucial ones: 
+
+
+1. Security, execution, cost, 
+and technology-availability issues: 
+Any 
+spectrum sharing naturally raises interference and hence communications-
+quality and 
+security risks. DSA is designed to 
+tackle these. 
+That said, any 
+DSA 
+system will naturally face risks 
+and 
+technological 
+challenges 
+and incur costs. 
+Experience from 
+the 
+first major deployments 
+such as CBRS will be crucial for 
+the technology to gain 
+momentum and hence scale economies in the 
+equipment market. 
+2. Opposition 
+against ending 
+wireless industry’s spectrum 
+‘privileges’:As 
+we said 
+earlier, the wireless industry was essentially designed around exclusive 
+use 
+of spectrum. Hence, 
+by default it has become the key owner of licensed 
+spectrum. We therefore expect the 
+industry 
+to 
+push for continued 
+exclusive 
+spectrum allocation on 
+the 
+grounds of quality, security, network investment 
+incentives, 
+etc. The 
+industry is also likely to aim at taking 
+‘ownership’ 
+of the 
+spectrum debate, possibly arguing 
+that spectrum 
+sharing 
+is 
+not a new idea and 
+promoting its own sharing models. Equipment vendors 
+may also want to show 
+restraint from 
+pushing a technology with 
+the 
+potential to disrupt businesses of 
+their key customers. 
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+43
+3. Need for major policy changes leading to possibly lower national budget 
+revenues from 
+spectrum sales: 
+DSA would require a 
+major departure from 
+the existing model of exclusive spectrum allocation. It may meaningfully 
+increase 
+the 
+supply of spectrum capacity, prevent wireless operators from 
+hoarding 
+spectrum to avoid 
+disruption, 
+and allocate spectrum to smaller players 
+at low cost. 
+Therefore, it may 
+dilute 
+the 
+revenues 
+a government can expect to 
+raise from spectrum 
+auctions. 
+This may pose 
+a challenge of finding other ways 
+to raise tax revenue from 
+TMT. 
+4. Dependence on a strong push by the big tech OTTs: 
+Changing the 
+established policies and the wireless industry may require strong economic 
+reasons 
+and 
+backing. We think that the big tech OTTs (Over The 
+Top 
+Companies) will in 
+the 
+medium term 
+have the strongest interest to 
+see DSA 
+thriving. However, the OTTs have so far shown restraint from openly suggesting 
+sweeping 
+changes in the wireless 
+market. 
+While we think that DSA will play a 
+role in future-shaping the relationship between the OTTs and 
+the wireless 
+industry, there 
+is 
+a range 
+of possible 
+outcomes. 
+We would not rule 
+out the 
+scope for some 
+negotiated outcome between the wireless 
+industry and the 
+OTTs in an attempt to avert the most disruptive 
+scenarios. 
+Impact on Sectors 
+and Companies 
+
+
+DSA may shift opportunities from wireless When 
+considering 
+the 
+potential impact of DSAon prospects for 
+different sectors 
+and 
+operators toward tech companies unless the companies, 
+we should reiterate that the 
+technology is in a relatively early 
+stage, 
+former become DIGITECCS hence it may be hard to 
+predict its 
+impact on 
+the 
+financials of major companies. 
+
+Different scenarios are still possible 
+depending on the 
+success of the 
+technology 
+and regulatory developments 
+but also 
+strategic priorities of the key players, 
+especially on the 
+big 
+tech side. Conceptually, we see the following potential 
+impacts: 
+
+
+• 
+Global tech: 
+Big tech, 
+but also smaller innovative tech companies, may benefit 
+from (a) opportunities to supply technologies and skills to manage DSA 
+platforms; 
+(b) opportunities to 
+play a role in creatingAirbnb-or Uber-style shared 
+wireless 
+economies; 
+(c) more 
+bandwidth 
+made available by 
+DSA to users 
+globally, which would expand 
+the 
+usage of OTT products; (d) easier opportunities 
+to directly enter parts of the wireless 
+market when 
+needed (e.g., 
+for specific IoT 
+opportunities); (e) fragmentation of the wireless 
+industry and weakening 
+gatekeeper power of wireless 
+operators 
+even if net neutrality is not fully enforced; 
+and (f) possible 
+opportunities 
+to use the disruptive threat of DSA 
+to negotiate 
+future relationships 
+between OTTs and the wireless industry. 
+• 
+Telco equipment vendors: 
+Equipment vendors could benefit from 
+the 
+need for 
+more technologically-advanced equipment, 
+although they also 
+have 
+exposure to 
+disruptive risks in 
+a 
+hopefully unlikely scenario 
+of DSA’s disruption outweighing 
+its benefits. 
+• 
+Industrial & service companies: 
+Innovative industrial/service companies may 
+find 
+it easier to 
+build and operate their private networks. 
+• 
+Wireless 
+MNOs (Mobile Network Operators): 
+Wireless 
+MNOs may see their 
+business 
+challenged 
+by harder access to 
+exclusive 
+spectrum 
+and 
+more 
+disruptive 
+competition, both 
+on the regional level and from outside 
+of the industry. The 
+degree of these 
+challenges will depend 
+on various 
+factors, including 
+the 
+spectrum allocations, business models, regulations, disruptor activity, and 
+availability of shared fiber infrastructure. 
+We 
+suggest the MNOs 
+use their 
+(possibly temporary) network 
+and 
+spectrum advantages to build 
+more tech-savvy 
+and 
+service-focused business 
+(we 
+call this DIGITECCS). 
+© 2018 
+Citigroup 
+
+
+
+4444
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+However, MNOs could also take an advantage 
+of DSA, which should give them 
+the 
+opportunity to access 
+more spectrum and 
+secure priority rights to such 
+spectrum selectively in regions where they need it. 
+Similar to 
+legacy fixed-line 
+incumbents such 
+as 
+AT&T and Deutsche 
+Telekom, which 
+invested into wireless in 
+very early stages 
+partially to hedge themselves against future disruptive trends, 
+we can envisage wireless operators 
+today potentially investing into new 
+technologies and businesses, including those 
+linked to DSA, for the 
+same 
+reasons. 
+
+
+• 
+Wireless 
+MVNOs (Mobile 
+Virtual Network Operators): 
+The classical MVNOs 
+and the disruptive role they play may become 
+less 
+needed and appealing 
+under 
+DSA. That said, 
+MVNOs, assuming they have sufficient strategic and capital 
+backing, could also aim at becoming DIGITECCS. 
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+45
+Asiya Merchant, CFA 
+
+U.S. IT Hardware & Supply Chain Analyst 
+Amanda Scarnati, Esq. 
+
+U.S. Semiconductor Consumable Analyst 
+Atif Malik 
+
+U.S. Semiconductor Capital Equipment and 
+Specialty Semiconductor Analyst 

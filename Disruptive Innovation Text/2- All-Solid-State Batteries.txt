@@ -1,0 +1,519 @@
+1. All-Solid-State Batteries 
+ADeterminant for Battery Electric Vehicle 
+Uptake 
+
+
+There is 
+no denying 
+that the recent boom in battery electric vehicles (BEVs) is 
+partly 
+the 
+result of ideals 
+promoted by governments, regulation, and corporate ethics. So 
+far, there is no BEV capable 
+of meeting 
+consumer needs the 
+same way 
+an internal 
+combustion engine (ICE) vehicle 
+can, and 
+based on the roadmaps announced by 
+carmakers, there 
+is 
+no 
+sign that one will emerge 
+for the first half of the 2020s. It 
+is 
+not an easy task to develop a 
+BEV that, 
+like current ICE vehicles, can be refueled in 
+three 
+minutes, has a 1,000km 
+range 
+on one tank 
+of fuel, benefits from sufficient 
+infrastructure, and can be easily used for at least 10 years. However, the 
+emergence of all-solid-state batteries 
+may disrupt the current situation and greatly 
+accelerate 
+market uptake of BEVs. 
+
+
+When the lithium-ion 
+batteries 
+that are widely used in smartphones and other 
+miniaturized electronic devices are used 
+in automotive applications, they require 
+much higher demands in terms of safety and 
+battery lifespan. At the same 
+time, 
+there 
+is a trade-off between improvements 
+in range 
+— 
+which 
+essentially require an 
+increase in 
+energy density 
+— 
+and 
+safety/lifespan. This trade-off is the 
+main reason 
+why 
+the performance of current lithium-ion batteries is 
+seen as a possibly 
+insurmountable 
+barrier to 
+the 
+increased market uptake 
+of electric vehicles. 
+
+
+We 
+believe all-solid-state batteries 
+have the potential to overcome these problems. 
+All-solid-state batteries 
+have a long history. Solid electrolytes were developed in the 
+1970s, but insufficient ionic conductivity limited their application. However, solid 
+electrolytes with ionic 
+conductivity similar to or superior to liquid electrolytes have 
+recently been discovered, accelerating research and development efforts. At the 
+2017 Tokyo Motor Show, Toyota announced 
+a target for 
+commercialization 
+for all-
+solid-state BEVs 
+in the first half of the 2020s. Although the first generation 
+of BEVs 
+using all-solid-state batteries 
+that 
+are 
+due to 
+be launched by 
+Toyota will only 
+have 
+a 
+limited 
+production volume, the 
+announcement by the company 
+will undoubtedly 
+stimulate increased efforts by 
+many companies, researchers, 
+and 
+government 
+bodies in the development of all-solid-state batteries. Volkswagen, Hyundai Motor, 
+and Nissan Motor have all announced investments in start-up companies, so we 
+see this as a theme likely to benefit from greatly increasing 
+attention. 
+
+
+Figure 1. Number of English-Language Journal Articles Regarding Solid-State Electrolytes and 
+All-Solid-State Batteries 
+
+050100150200250300350400450200020022004200620082010201220142016
+Source: Atsushi Sakuda, Akitoshi Hayashi, 
+Masahiro 
+Tatsumisago, 
+“Zenkotai Denchi no 
+Kaihatsu 
+Jokyo 
+(Development of All-Solid-State 
+Batteries)”, 
+Journal of 
+Society 
+of 
+Automotive 
+Engineers 
+of 
+Japan, 
+Vol.72, 
+No.2, 
+2018, Citi Research 
+
+© 2018 
+Citigroup 
+
+
+
+1313
+August 2018 Citi GPS: Global Perspectives & Solutions 
+
+Figure 2. Current Problems Facing Lithium-Ion Batteries 
+
+Issue Comment 
+Improving energy density Higher energy density needed to improve BEV uptake 
+Various technologies needed to ensure safety given high-density energy storage and use of organic electrolytes. Trade-off 
+
+Improving safety profile 
+
+between safety and energy density. 
+
+Improving product lifespan Must sustain output sufficient to move an automobile for at least ten years. Right now there is a trade-off between 
+(limiting output and volume degradation) controlling output degradation over time and improving energy density. 
+Lowering costs Batteries currently account for about one-third of the total EV price. 
+
+Source: Atsushi Sakuda, 
+Akitoshi Hayashi, 
+Masahiro 
+Tatsumisago, 
+“Zenkotai Denchi no 
+Kaihatsu 
+Jokyo 
+(Development 
+of 
+All-Solid-State 
+Batteries)”, 
+Journal of 
+Society 
+of 
+Automotive Engineers of Japan, Vol.72, No.2, 2018, Citi Research 
+
+Potential to solve issues of range, 
+degradation of performance, and charging 
+time, etc. 
+
+Potential of 
+All-Solid-State Batteries 
+
+
+Current lithium-ion 
+batteries are made up of the 
+cathode, an 
+electrolytic solution, 
+a 
+separator, 
+and the 
+anode. The difference 
+in a solid-state battery is that the 
+electrolyte 
+is 
+solid. In fact, 
+all components and 
+materials are 
+solid, hence the 
+‘solid-
+state’ 
+terminology. The properties 
+of all-solid-state batteries depend on which 
+materials are used, but research-to-date reveals 
+a clear potential in 
+terms of safety, 
+resistance to leakage, resistance to combustion (simplified cooling structure), 
+miniaturization, flexibility of 
+design in 
+terms of direct layer formation for cells, relative 
+long 
+discharge 
+cycle lifespan, lack 
+of degradation thanks to good high/low 
+temperature properties, short charge times, high 
+energy density, 
+and high power 
+density. In the past, 
+low power density has been 
+seen as a weakness 
+of solid-state 
+batteries, but the 
+Tokyo Institute of Technology and 
+Toyota’s research team have 
+together developed an all-solid-state battery with three 
+times 
+the power density and 
+twice the energy density of existing lithium-ion batteries. We 
+believe 
+all-solid-state 
+batteries 
+have the potential 
+to 
+overcome the disadvantages of EVs. 
+
+
+Figure 3. Lithium-Ion Battery vs. All-Solid-State Battery 
+
+All-solid-
+stateNegativeelectrodePositiveelectrodeX-
+X-
+Li+
+X-Li+
+-+
+OrganicelectrolyteLi+
+Li+Li+
+Li+Li+
+Li+Li+
+Li+Li+
+Li+Li+
+Li+Li+
+Li+Li+
+Li+Li+
+NegativeelectrodePositiveelectrode-+
+SeparatorInorganicsolid electrolyte
+Source: Nature Energy, Citi Research 
+
+© 2018 
+Citigroup 
+
+
+
+1414
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Figure 4. Battery Power and Energy Density 
+
+Powerdensity(kW/kg)
+SupercapacitorLithium-ionbatteryAluminum-ionbatterySodium-ionbatteryLithium-sulfurbatteryMagnesiumbatteryAll-solid-statebatteryLithium-oxygenbattery0.1110Cellenergy density(Wh/kg)
+1001000100001101001000HighenergyHighoutput
+Source: Joint press release by the Tokyo Institute of Technology and Toyota (March 17, 2016), Citi Research 
+
+Figure 5. All-Solid-State Battery Potential and Hurdles to Commercialization 
+
+All solid state battery potential 
+All-solid-state batteries are highly fire-resistant and very safe as they have no leakage 
+Lithium-ion is the only molecule that moves within the electrolyte and side-effects on the positive electrode surface are therefore unlikely. This lengthens battery life 
+Performance deterioration is limited across a broad temperature range (works well in low and high temperatures) 
+Resistance to high temperatures allows the cooling structure to be simplified 
+Cell design allows a high degree of flexibility 
+Cells can be stacked directly on top of one another without packaging 
+Discovery of superionic conductors enables high diffusivity and high output 
+Energy density can be increased because batteries can be used at high voltage 
+Capable of high-speed charge/discharge, which is not possible with electrolytes; shortens discharge time 
+
+Hurdles to commercialization 
+Reducing interface resistance between electrodes and solid electrolytes . 
+Toyota is developing coating material for positive electrode active material 
+Cell development process . 
+Toyota is developing a wet coating method (previously a powder cell) 
+Sulfide solid-state electrolytes offer high conductivity but measures to deal with the hydrogen sulfide that results are an issue . 
+additives being mixed in and research being 
+
+undertaken into blends with oxidized materials 
+Demonstrating the reliability required for use in vehicles 
+Establishing a battery pack structure 
+Developing low-cost mass production technology 
+
+Source: Various materials, Citi Research 
+
+© 2018 
+Citigroup 
+
+
+
+1515
+August 2018 Citi GPS: Global Perspectives & Solutions 
+
+Figure 6. Toyota Motor: Lithium-Ion Battery (fitted in Prius PHV) vs. All-Solid-State Battery 
+(Developed Product) — 
+Sharp Difference in Pack Volume Between the Lithium-Ion Battery on 
+the Left and the All-Solid-State Battery on the Right 
+
+
+Acceleration in BEV market uptake would 
+have an impact on a range of industries 
+
+Source: Photographed at Toyota Kaikan, Citi Research 
+
+Impact of Market Uptake of All-Solid-State Batteries 
+
+
+The main impacts 
+of all-solid-state batteries on 
+the auto 
+industry include 
+an 
+acceleration in BEV market uptake 
+and 
+changes in the BEV battery supply chain. If 
+BEVs replace ICE vehicles, there would be no 
+need for engines, transmissions, and 
+related parts, but there would 
+be a new need for batteries, inverters, motors, and 
+parts related to these systems. For conventional auto assemblers, which 
+manufacture 
+engines and transmissions in-house, ensuring that they have the 
+capacity to develop all-solid-state batteries 
+in-house is an important source of 
+added value. For suppliers, it will be important to re-examine elemental 
+technologies to develop new components. If there is an increase 
+in BEV market 
+uptake, there 
+are 
+also 
+likely to 
+be changes to national-level rules 
+governing things 
+such as taxes, energy policy, 
+and resources. 
+
+Ashift from liquid lithium-ion 
+batteries to all-solid-state batteries would also mean 
+a 
+change from 
+liquid 
+electrolytes to solid electrolytes 
+and a decrease in the need for 
+separators, 
+and there would 
+be the 
+potential to use new materials for cathodes 
+and 
+anodes. We think it likely that the materials used in the all-solid-state batteries to 
+be 
+launched by 
+Toyota 
+in the first half of the 2020s will be 
+similar to those 
+used 
+currently, and 
+as 
+production volumes will be small, the impact on the current supply 
+chain is also 
+likely to 
+be 
+small. However, if we see material 
+progress in 
+research 
+and development 
+efforts, the all-solid-state batteries 
+available in the 
+second 
+half of 
+the 2020s and the 2030s 
+are likely to 
+be 
+disruptive. 
+
+
+© 2018 
+Citigroup 
+
+
+
+1616
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Figure 7. Patent Application Ranking for Sulfide Solid-State Electrolytes Used in EV 
+Applications (Applications in Japan, the U.S., Europe, China, and South Korea, 2009–15): 
+Automakers at No. 1 and No. 5 
+
+050100150200250300350Toyota MotorJapanesePetroleumCompanyJapaneseElectronicsCompanySouth KoreanElectronicsCompanyHyundai KiaMotors Group
+Development of volume production 
+processes only just started and cost barriers 
+are considerable, but there are potential cost 
+benefits in terms of battery pack 
+simplification and use of low-cost electrode 
+materials 
+
+Source: 2018 Japan Patent Office Annual Report, Citi Research 
+
+Barriers to Market-Uptake of All-Solid-State Batteries 
+
+
+There has 
+been talk of a 
+bias to BEVs, but the current market consensus is that we 
+are now in an era of ‘powertrain diversification’ 
+rather than the coming of age 
+of 
+BEVs as such. However, 
+we think 
+that if efforts to develop volume 
+production of all-
+solid-state 
+batteries are successful, the era of the BEV could be close. 
+
+Even so, a range of issues 
+would 
+need 
+to be overcome. Research and development 
+aimed at the volume production of all-solid-state 
+batteries has only just begun, and 
+how far manufacturing 
+costs 
+will decline is 
+still 
+unclear. Theoretically, there should 
+be considerable potential for costs to decline, given the simplification of battery 
+packs 
+and the use 
+of low-cost electrode materials. 
+
+
+On the other hand, 
+if there is greater-than-expected 
+progress in the improvement of 
+lithium-ion 
+battery performance and 
+increased 
+reductions in 
+cost, the shift to all-
+solid-state 
+batteries could be 
+delayed. 
+
+There is 
+also the risk that interest in BEVs 
+themselves 
+could 
+fade because of 
+developments 
+in 
+hybrid electric vehicles (HEVs) 
+and standard 
+ICE vehicles, the 
+debate around well-to-wheel issues, and the renewed popularity of diesel vehicles 
+
+
+— 
+all 
+of which 
+could 
+mean a weakening in 
+development efforts for all-solid-state 
+batteries. 
+From the perspective of range 
+and the time required 
+for hydrogen refueling, fuel-cell 
+vehicles are another potential 
+competitor. Although 
+infrastructure issues 
+are 
+a 
+problem, there is considerable potential in terms of a fossil-fuel substitute and 
+energy carriage. KPMG’s GlobalAutomotive Executive 2018 
+survey ranked fuel-cell 
+vehicles 
+as the 
+top key trend through 2025 and BEVs 
+in the 
+3rd 
+position 
+according 
+to global automotive executives. In 
+2017, the same survey had the issues reversed, 
+with BEV’s in the 
+No. 1 
+position and 
+fuel-cell vehicles 
+ranked 
+3rd. 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+17
+Yigal Nochomovitz, Ph.D. 
+
+U.S. Mid/Small Cap Biotechnology Analyst 
+Samantha Semenkow, Ph.D. 
+
+U.S. Mid/Small Biotechnology Team 
+Figure 8. Age-Related Diseases Affect 
+Millions of People in the U.S. 
+
+Source: Citi Research; Arthritis Foundation; National 
+Eye Institute; Alzheimer's Associate 
+

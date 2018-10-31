@@ -1,0 +1,645 @@
+7. 5G Technology 
+Enabling Commercial Connectivity at Scale 
+
+
+Wireless technologies have 
+made dramatic improvements since the first cellular 
+phone call was made in 
+1973 
+on a 2.5 pound, 10-inch long 
+handset. Further 
+progress 
+has been made 
+through the introduction of texting and digital voice (2G), 
+simple 
+data (3G), and broadband data (4G LTE). The chipsets needed to access 
+mobile networks 
+have also 
+shrunk 
+and 
+dropped in price, and 
+wireless 
+connectivity 
+has 
+been added to myriad devices, 
+from 
+mobile 
+credit card readers to remote 
+monitoring systems. 
+The so-called 
+Internet of Things (IoT) and machine to machine 
+(M2M) connectivity has allowed wireless carriers to 
+dream beyond smartphones 
+and imagine a larger addressable 
+market. 
+
+
+The initial 
+standardization efforts of 5G technology were completed in June 2018, 
+and preparations have begun to upgrade 
+networks 
+globally. While some 
+carriers 
+have been discussing the potential for 5G technology for three to five 
+years, there 
+remains 
+a skepticism on its use cases among 
+investors. We 
+agree that this is likely 
+a small improvement for consumer smartphones, but see a 
+huge potential for 
+commercial and industrial users that have 
+not significantly benefitted from wireless 
+technologies to date. 
+
+
+Figure 26. Traditional Connectivity Was Driven by People Figure 27. Future Connections Will Include Objects 
+
+
+Source: Citi Research Source: Citi Research 
+
+5G improves on four central attributes 
+including lower latency, improved device 
+density, improved speed and capacity, and 
+dynamic spectrum access 
+
+The 5G standards, as proposed by the International 
+Telecommunications Union and 
+developed by 3GPP, improve 
+on 
+four 
+central attributes 
+of the wireless 
+connection 
+that we believe as crucial to commercial connectivity: 
+
+
+• 
+Lower Latency. 
+Latency is 
+the 
+delay between a request for information being 
+made and the 
+time the transmission begins; that delay will drop below 10 
+milliseconds with 5G versus 50 milliseconds or more with 4G LTE. While this 
+may 
+not sound like 
+much, it could 
+mean the 
+difference between 
+an immersive virtual 
+reality experience 
+and 
+a disorienting 
+delay between 
+moving 
+your head and the 
+changing view on the 
+display. Lower latency will be 
+key for emerging applications 
+including autonomous 
+driving, virtual and augmented reality, and 
+mobile 
+gaming. 
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+51
+• 
+Device Density. With 
+the 
+5G standard, it is hoped that 
+the network could 
+connect as 
+many as 1 million 
+devices per square 
+kilometer (0.38 
+square 
+miles). 
+This is 
+a 10x improvement over 4G and 
+is 
+key to 
+the 
+potential for vast sensor 
+networks that report back on conditions ranging from air quality and humidity to 
+whether a parking spot is 
+available 
+or if a 
+streetlight is out. 
+The Internet of 
+Things 
+depends 
+on networks being able to 
+handle 
+a vast number of intelligent devices 
+and reporting back to 
+the 
+network. 
+• 
+Speed and Capacity. As with any generational improvement, 5G will allow for 
+faster average and peak 
+speeds than previous standards. This 
+bump in speeds, 
+however, is being created by using more spectrum than was 
+previously capable 
+before 
+rather than a 
+significant leap in 
+spectral efficiency. We equate wireless 
+network technology to a highway: Spectral efficiency, or bits 
+per hertz, is 
+like the 
+speed limit, 
+while 
+megahertz of spectrum is the number of lanes. 
+The speed 
+limit 
+is expected to rise just 15%–20%, 
+while the number of lanes is increasing 
+by 5– 
+10x as we move from 
+4G to 
+5G. 
+• 
+Dynamic Spectrum 
+Access: 
+A fourth important innovation 
+with 5G is ‘network 
+slicing,’ or the 
+dynamic 
+allocation of network capabilities based on 
+the 
+application. This would allow, for example, guaranteed low latency and reliability 
+for first responders in an 
+emergency while 
+prioritizing speed 
+for smartphone 
+users. It 
+allows network owners to 
+customize the offer, and 
+their network 
+capabilities, to price 
+the 
+solutions needed by the end user rather than selling 
+a 
+one-size-fits-all product. 
+(See 
+earlier chapter on Dynamic Spectrum 
+Access.) 
+Figure 28. ITU 5G Technology Goals Figure 29. Network Slicing Allocates Capabilities by Application 
+
+Source: ITU (http://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2083-0-
+201509-I!!PDF-E.pdf). IMT Advanced is LTE-advanced technology 
+
+
+We expect early 5G network deployments to 
+begin in the second half of 2018 and mass 
+production of chipsets in 2019 
+
+
+Source: ITU (http://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.2083-0201509-
+I!!PDF-E.pdf) 
+
+The initial 5G 
+standard from 3GPP, called Release 15, was completed in 
+June 2018 
+and 
+can 
+be put into existing networks through 
+a software upgrade on 5G-capable 
+equipment. 
+This equipment has been available for more than a year, and U.S. 
+operators will 
+be first in 
+select markets with a fixed 
+wireless broadband and data-
+only mobility focus. Moving into 2019, we expect launches 
+in Japan and South 
+Korea as well as the first consumer smartphones. Europe, China, and other major 
+markets will 
+launch from 2020 
+as spectrum becomes 
+available. Embedded modules 
+for sensors, automobiles, and 
+other IoT/M2M applications will also become 
+available as 
+manufacturing scales and chipset costs 
+fall. 
+
+
+© 2018 
+Citigroup 
+
+
+
+5252
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Figure 30. Expected Timing of 5G Commercial Deployments Around the Globe 
+
+
+The addressable market for potential new 
+business cases is huge, including connected 
+and autonomous vehicles, smart 
+manufacturing, digital health, and smart 
+cities 
+
+Source: Citi Research. Timing based on commercial network deployments, not testing or demonstrations. 
+
+Expect Carriers to Explore New Business 
+Cases Not 
+Possible 
+with Previous Technologies 
+
+
+Better wireless 
+broadband has allowed for more-intensive Internet use, including 
+streaming video, but the cost of capacity and 
+chipsets 
+has limited 
+usage to a largely 
+consumer-focused end 
+market. Some have looked to 
+Wi-Fi, with cheaper chips and 
+‘free’ 
+unlicensed spectrum, but the inability to guarantee network quality and 
+security limits the potential. Network slicing allows for lower costs than current 
+mobile networks, better security than 
+Wi-Fi, and 
+customization that tailors the 
+offer 
+to the 
+application. 
+
+
+The global wireless industry generates 
+$1 trillion 
+of revenue 
+annually, 
+with one 
+connection 
+per person globally as of 2017. While this revenue stream 
+can be 
+grown 
+through 
+incremental 
+connections and greater data usage, pricing pressures 
+from 
+competition have limited growth in recent years. As carriers explore new business 
+cases, new large 
+addressable 
+markets 
+are becoming available. 
+
+
+The Internet of Things Expected to 
+Be a Multi-Trillion 
+Dollar Market 
+
+
+A 2015 McKinsey study estimated the global IoT market will be worth $4–$11 trillion 
+annually by 2025, with spending on 
+IoT technology to be 
+$300–$800 billion. The 
+majority of technology spending will be for 
+upstream 
+software services, with 
+just 
+$15–$40 billion for connectivity. While traditional telecom companies have been 
+unsuccessful historically in 
+adding 
+services 
+to their connectivity offerings 
+(the 
+‘dumb 
+pipe’ 
+problem), many companies are pursuing acquisitions 
+and partnerships to 
+acquire the necessary skillset. 
+Carrier consortia to 
+provide services 
+globally and 
+present a 
+single point of contact for enterprises have also formed, such as the IoT 
+WorldAlliance 
+and the BridgeAlliance. Potential IoT business cases include: 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+53
+Using 5G wireless technology could create 
+better private networks 
+
+• 
+Connected andAutonomous Vehicles: 
+Modern automobiles have dozens 
+of 
+sensors that can be used to predict maintenance 
+needs, predict track location, or 
+effect autonomous 
+driving. Embedding data 
+connectivity into 
+the car can 
+make 
+use 
+of that data in ways that are not currently 
+possible, 
+including real-time 
+traffic 
+avoidance, better fleet management, and new ride-sharing business models. 
+The 
+low latency and large bandwidth available in 
+5G 
+are 
+required, as 
+milliseconds 
+can 
+matter in preventing 
+collisions 
+and the amount of data being 
+created 
+can 
+be 
+massive. 
+• 
+Smart Manufacturing: 
+Smart manufacturing can leverage big data analytics to 
+optimize production and manage the inventory of raw inputs 
+into the process, 
+and it has been 
+called 
+the fourth industrial revolution. Manufacturers can use 
+wireless 
+connectivity to 
+monitor environmental factors, automate changes, track 
+inventory, and adjust accordingly. Connecting the entire 
+supply chain 
+could allow 
+for end-to-end tracking and monitoring 
+from raw material to the finished 
+good. 
+Groups globally have formed to study the 
+potential, including the U.S.-based 
+Smart Manufacturing Leadership Coalition. 
+• 
+Digital Health: 
+Connected fitness 
+monitors 
+may have been 
+a fad, but Internet-
+connected 
+medical monitoring 
+devices can improve health 
+outcomes. 
+With 
+enhanced monitoring of patients with chronic illnesses 
+such 
+as diabetes and 
+heart disease, health care providers 
+can 
+monitor whether treatment regimens are 
+being adhered to and detect potential 
+emergency conditions 
+earlier. Other 
+connected 
+devices, such as heart rate monitors 
+or sleep trackers, could 
+track and 
+incentivize better wellness habits among the population in general. 
+• 
+Smart Cities: 
+Governments 
+around the world are looking 
+to IoT solutions to 
+improve 
+services, conserve natural resources, and 
+generally 
+improve 
+the 
+quality 
+of life of the residents. 
+These 
+can range from real-time coordination of traffic 
+signals to 
+ease congestion and tracking 
+parking 
+meter usage to 
+monitoring water 
+and air quality and 
+issuing timely emergency alerts. Sensors on critical 
+infrastructure 
+like bridges, roads, and utility networks 
+could 
+allow for predictive 
+maintenance and avert poor maintenance 
+conditions. Early examples of ‘smart 
+city’ applications include 
+the 
+monitoring 
+of full 
+street wastebaskets and 
+mass-
+transit arrival information. 
+Creating small private networks, either in a single building 
+or distributed across 
+multiple locations, has 
+long been the purview of wired access solutions augmented 
+with limited wireless 
+or Wi-Fi networks. With 5G, that could 
+be reversed given the 
+lower cost of installing, maintaining, and updating a wireless 
+network. Imagine a 
+hospital where every machine 
+and device 
+are 
+connected at all times 
+and 
+are 
+freely 
+movable room to room and floor to floor. Office 
+environments can 
+become more 
+mobile and 
+adaptable with employees taking devices 
+anywhere in the 
+building, or 
+even outside the building, while maintaining wireless 
+data 
+connectivity. 
+
+
+Barriers to 
+Entry Include Spectrum Availability & Upfront 
+Investment 
+
+
+Anyone looking to deploy wireless 
+networks 
+needs 
+access to 
+spectrum, whether 
+through exclusive licenses or unlicensed shared 
+access. 
+The ability of 
+companies to 
+deploy new 5G networks depends 
+on country regulators 
+making that new spectrum 
+available, and will 
+be the biggest hurdle 
+to deployment. 
+We’ve seen early access to 
+new licensed spectrum 
+bands 
+through auction in the U.S., the 
+U.K., and South 
+Korea and allocation 
+processes in China and Japan. 
+
+
+© 2018 
+Citigroup 
+
+
+
+5454
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Once spectrum becomes 
+available, the 
+cost of deploying the 
+network will be 
+weighed against its revenue-generating 
+potential, process efficiency gains, or 
+whatever the business case requires. This could be 
+a costly endeavor in 
+certain 
+cases, and 
+it may limit interest in investing the necessary capital. 
+
+
+There Are Many 
+Potential 
+Winners 
+
+
+Wireless carriers are the 
+obvious potential winners 
+as they are committed to 
+keeping 
+up with technology and will look to better monetize the increasing data 
+traffic on their networks. With 
+5G technology, 
+wireless companies will attempt to 
+widen the lens of their business by addressing devices and use cases that either 
+haven’t been successfully addressed or were not possible previously. Other 
+potential winners 
+include: 
+
+
+– 
+Technology companies 
+could 
+create new services based on 
+the improved 
+network attributes. Mobile console-quality gaming and virtual reality are just 
+two examples of services that are made 
+possible 
+by 
+5G. 
+– 
+IT services companies 
+could 
+benefit from using more wireless networking 
+solutions to improve outcomes for their clients. Shifting from 
+wired to wireless 
+could accelerate deployment schedules and increase solution flexibility. 
+– 
+Manufacturing companies 
+could see an 
+improvement in supply chain efficiency 
+by better monitoring 
+materials 
+and 
+processes 
+globally. 
+We Expect 5G 
+Wireless Could Displace Existing 
+Technologies 
+
+
+Telecom companies 
+that focus on wired solutions could see 
+new competition from 
+5G wireless 
+networks. Possible areas of competition 
+include 
+a broadband 
+replacement service for 
+consumers 
+as well 
+as 
+more-flexible 
+voice and data 
+solutions for small businesses 
+and branch offices of large enterprises. Other 
+companies 
+that could 
+face disruption from new 
+5G networks include: 
+
+
+– 
+Fixed broadband 
+companies, including telecom 
+companies but also 
+cable 
+operators, 
+and 
+alternative telecom 
+providers 
+could be displaced 
+by wireless 
+broadband 
+solutions that can 
+provide 
+similar technical attributes with the 
+benefit of mobility. 
+– 
+Network equipment companies that produce technology that could be 
+displaced, such as 
+Wi-Fi and 
+Ethernet, would be at risk if they do 
+not 
+successfully pivot to 5G. 
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+55
+Martin Wilkie 
+
+Head of European Capital Goods Research 
+Team 
+
+Ji Cheong 
+
+European Capital Goods Research Analyst 
+
+Although cost competitive, onshore wind is 
+seeing signs of market saturation in certain 
+developed markets

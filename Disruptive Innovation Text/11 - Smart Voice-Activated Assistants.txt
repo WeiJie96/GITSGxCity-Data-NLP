@@ -1,0 +1,666 @@
+10. Smart Voice-ActivatedAssistants 
+Machines Learn, but People 
+Teach 
+
+
+Advancements in voice recognition, natural language processing, 
+and 
+improved 
+connectivity have 
+made voice 
+control of electronic appliances and smart devices 
+increasingly 
+mainstream. 
+We 
+believe we are at the tipping point for user interfaces 
+with the emergence of 
+voice-based digital assistants 
+such as 
+Amazon’s 
+Alexa, 
+Apple’s Siri, Google’s Now, Microsoft’s Cortana, etc. Voice is well positioned to 
+permeate 
+a large number of industries to varying degrees. 
+
+
+These ‘smart’ 
+assistants 
+have 
+opened a 
+new page 
+in human-machine interaction. 
+Smart Assistants or Virtual PersonalAssistants require advanced 
+speech 
+recognition 
+and 
+speech synthesis 
+algorithms in 
+order to 
+comprehend and respond 
+to commands. 
+
+We 
+expect a rise in 
+the 
+usage 
+of Smart Assistants to result in them performing 
+more 
+complex tasks. In 2019, 
+20%21 of all 
+user interactions with a smartphone are 
+expected to 
+be via SmartAssistants. Currently, Smart Assistants 
+fulfill simple tasks 
+like setting alarms and retrieving information from the web, but in 
+the 
+near future 
+they would be 
+able to 
+deliver complex 
+tasks 
+such as 
+completing a transaction 
+based 
+on historical patterns. 
+This trend would be further intensified 
+by conversational 
+commerce, voice-based payments, 
+and speech recognition 
+security systems. 
+
+
+Powered byArtificial Intelligence 
+
+
+The emergence of SmartAssistants has 
+been made possible by advancements in 
+artificial 
+intelligence 
+(AI). 
+The 
+McKinsey Global 
+Institute estimates that deep 
+learning techniques (focusing 
+on three neural networks: feed forward, recurrent and 
+convolutional) could enable the creation of $3.5–$5.8 trillion in value 
+annually. Citi’s 
+Global 
+Technology team sees 
+the rise of AI as the next paradigm 
+shift in the 
+technology sector. IDC forecasts the market size 
+for AI solutions to grow at a 55% 
+compound annual growth rate, from 
+$8 
+billion 
+in 2016 
+to 
+$47 
+billion 
+in 2020, driven 
+by the deployment of AI systems 
+in automated customer service agents, quality 
+management investigation and recommendation systems, diagnosis 
+and 
+treatment 
+systems, 
+and fraud 
+analysis and investigation. Figure 
+42 
+and 
+Figure 
+43 
+show the 
+forecast nine-year compound 
+annual growth rate 
+forAI revenue at +57% (albeit off a 
+low base) and for cognitive 
+computing to more grow more than five-fold from 
+2019 
+to 2024. 
+
+
+21 Gartner Inc. Annual Mobile Apps Survey 
+
+© 2018 
+Citigroup 
+
+
+
+6565
+August 2018 Citi GPS: Global Perspectives & Solutions 
+
+Figure 42. Worldwide AI Revenue Forecast, 2016–25 (US$m) Figure 43. Cognitive Computing Rev by Segment, WW 2015–24 
+
+05,00010,00015,00020,00025,00030,00035,00040,0002016201720182019202020212022202320242025AI Revenue
+Source: Tractica Source: Tractica 
+
+Figure 44. Market Share in Voice-Enabled 
+Speaker Market (2017) 
+
+Amazon 
+Echo58.2%
+Google 
+Home25.3%
+Apple3.9%
+Sonos3.6%
+Other9.1%
+Source: eMarketer, Citi Research 
+
+
+Applications 
+
+
+We 
+see the following applications 
+of Smart Assistants 
+as 
+driving their increasing 
+use: 
+
+1. Smart Speakers and TVs 
+Smart Assistants have resulted in 
+speakers transforming 
+from an 
+audio device 
+to 
+devices that can answer questions as well as 
+complete tasks. Smart speaker 
+shipments 
+are expected to 
+grow at a 
+35% compound annual 
+growth rate 
+from 32 
+million 
+units 
+in 2017 
+to 142 
+million 
+units in 2022 (Figure 
+45), which includes 
+doubling 
+from 2019–22. 
+
+
+Another indicator of the increasing use of smart speakers is the number of skills 
+being added to 
+Amazon’s Echo andAlexa. At the end of 
+March quarter 2018, 
+developers 
+had 
+built more than 30,000 
+skills to 
+date, doublingAlexa’s 
+capabilities 
+in 
+9 months (Figure 
+46). 
+
+
+Figure 45. Global Smart Speaker Shipments Expected to Grow at 35% Figure 46. Third-Party Skills Available for Amazon’s Virtual 
+Assistant 
+Growth Rate (million units) ‘Alexa’ 
+
+
+3250719411814202040608010012014016020172018E2019E2020E2021E2022E
+135 
+1,000 
+3,000 
+5,000 
+10,000 
+15,000 
+20,000 
+25,000 
+30,000 
+- 
+5,000 
+10,000 
+15,000 
+20,000 
+25,000 
+30,000 
+35,0001Q '162Q '163Q '164Q '161Q '172Q '173Q '174Q '171Q '18
+Source: Sonos, Futuresource, Kagan, Citi Research Source: Amazon, Citi Research 
+
+According to IHS Markit, the 
+integration 
+of Amazon 
+Alexa and Google 
+Assistant is 
+expected to 
+increase the demand for smart 
+TVs going forward. 
+
+© 2018 
+Citigroup 
+
+
+
+6666
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+ComScore estimates that 50% of all 
+searches will be by voice by 2020 
+
+One of the challenges facing search is 
+prominence. 
+
+2. Voice-Enabled Search 
+ComScore estimates that 50% of all searches will be 
+by voice 
+by 2020. Voice 
+search queries are different from normal text search queries 
+as voice 
+searches are 
+more 
+conversational (i.e., “BHP CEO” vs. “Who 
+is 
+the CEO of BHP”) and 
+more 
+nuanced. 
+
+
+With text search, while there is always one primary search result at the top, the 
+person entering the query can 
+also easily see and 
+scan the other, say 
+nine, search 
+results. With voice search results, however, being in the top 
+2–3 search results 
+becomes even 
+more critical 
+because 
+someone is unlikely to 
+listen 
+to 
+nine 
+more 
+search results 
+being recited. This 
+is 
+most likely an issue when a search is generic 
+such as ‘batteries’ or ‘toothpaste’ 
+and may prove less of an issue for leading 
+branded products 
+and 
+more of an issue 
+for 
+challenger brands. This is most 
+important for first-time purchases, as the assistant will learn 
+a user’s preferences 
+over time. 
+
+
+3. Navigation & Automotive 
+Another application of voice activated assistants is in the automotive 
+industry. 
+Driving presents 
+a natural setting for the 
+application of voice-based systems given 
+that both 
+hands and eyes are 
+usually occupied. Figure 
+47 
+and 
+Figure 
+48 
+below 
+gives the primary reasons 
+for usage of voice-based 
+search and 
+the primary 
+places 
+where it is used. 
+
+Figure 47. Primary Reasons for Using Voice (USA, 2017) Figure 48. Places Where People Use Voice Assistants (2017) 
+
+83%
+62%
+60%
+34%
+0%20%40%60%80%
+Lets me use the device without myhandsIt's funSpoke language feels more naturalthan typingIt's easier for children to use51%
+30%
+6%
+1%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+In the carAt homeIn publicAt work
+Source: Pew Research Center, Citi Research Source: Creative Strategies, Citi Research 
+
+ALong Way To Go… 
+
+
+We 
+believe increased 
+Internet penetration will increase 
+the 
+need for multilingual 
+content as new users will 
+be predominantly from non-English speaking regions. 
+
+
+Our analysis 
+of the languages 
+supported 
+by the 
+major Smart Assistants 
+highlights 
+the extent of the 
+limitation 
+on 
+supported 
+languages. For instance,Amazon’s 
+Alexa 
+currently only 
+supports English (U.S. 
+and U.K. 
+English) 
+and 
+German 
+(it 
+has recently 
+added Japanese (Figure 
+49)). 
+
+
+© 2018 
+Citigroup 
+
+
+
+August 2018 Citi GPS: Global Perspectives & Solutions Citi GPS: Global Perspectives & Solutions 
+
+67
+Australian Stock Exchange-listed Appen is 
+
+Figure 49. Languages Supported by Major Smart Assistants 
+
+a leading global provider of data for AI (e.g., 
+data for speech recognition, speech 
+synthesis, and natural, language 
+understanding) 
+
+Language Apple 
+(Siri) 
+Google 
+Assistant 
+Microsoft 
+(Cortana) 
+Amazon 
+(Alexa) 
+1 English 
+2 German 
+3 Japanese 
+4 French 
+5 Portuguese 
+6 Spanish 
+8 Thai 
+9 Korean 
+10 Danish 
+11 Swedish 
+12 Norwegian 
+7 Dutch/Afrikaans 
+13 Mandarin 
+14 Italian 
+15 Arabic 
+16 Russian 
+17 Malay 
+18 Cantonese 
+19 Finnish 
+20 Hebrew 
+21 Turkish 
+22 Hindi/Urdu 
+23 Indonesian 
+
+English websites dominate, but English 
+
+speakers 
+don’t 
+
+
+Note: We have performed the analysis based on the Top 25 most influential languages, with other disclosed 
+languages noted. Blue means that the language has been added in the past year. 
+Source: Citi Research. Citi Research, Company Websites, List25. 
+
+At 
+present,Asian language speakers dominate the 
+Internet users’ pie, but Internet 
+content is heavily skewed toward English (refer Figure 
+50 
+and 
+Figure 
+51). We 
+expect the leading technology 
+companies 
+to increase their focus 
+on 
+non-English 
+languages, especiallyAsian languages 
+and 
+dialects, over the medium term. There 
+is an underlying need for local 
+content, which should increase the 
+need for 
+language 
+resources 
+going forward as companies try to 
+attract consumers from 
+these regions. 
+
+
+Figure 50. Distribution of Internet Users by Region (2016) Figure 51. Breakdown of Websites by Language (2016) 
+
+54%
+18%
+8%
+12%
+7%1%
+AsiaEuropeAfricaNorth AmericaSouth AmericaOceania & Australia
+51%
+7%
+6%
+6%
+5%
+4%
+2%
+2%
+2%
+2%
+13%
+EnglishRussianJapaneseGermanSpanishFrenchPortugueseItalianChinesePolishRest
+Source: Internet Live Stats, Citi Research Source: Internet Live Stats, Citi Research 
+
+© 2018 
+Citigroup 
+
+
+
+6868
+Citi GPS: Global Perspectives & Solutions August 2018 
+
+Increased services … 
+
+
+… 
+result in increased products being bought 
+… 
+
+
+… which 
+may 
+be 
+powered 
+by 
+semiconductors 
+… 
+
+
+…which 
+may 
+be 
+supported 
+in 
+data 
+centers. 
+
+Who Is 
+Well Placed to Benefit? 
+
+
+In addition to the companies that develop the Smart Assistants, we note these 
+second-order beneficiaries from increasing use of Smart Assistants: 
+
+
+• 
+Data/Service Providers: 
+In order for SmartAssistants to evolve, there is a need 
+for large 
+volume 
+and variety of labelled-training data, which is a growth 
+opportunity for technology 
+services/data 
+providers. 
+• 
+Home Electronics Manufacturers: 
+The increasing use of Smart Assistants in 
+speakers, TVs, etc. could result in 
+consumers upgrading their home electronics. 
+• 
+Semiconductors: 
+Semiconductor companies are 
+expected to benefit from the 
+increasing 
+use of 
+Smart Assistants 
+and 
+artificial 
+intelligence. 
+• 
+Data Center Providers: 
+We 
+also 
+see data center 
+providers 
+as benefiting from 
+the increased data required to 
+power the 
+AI algorithms. 
+Improved Technology Is a Key Risk 
+for Suppliers 
+
+
+While we believe 
+the 
+likely outcomes for the development of voice-activated 
+technologies are somewhat binary, in that we expect strong 
+growth, the 
+companies 
+providing the training data, voice in particular, could be 
+challenged over 
+time. 
+The 
+primary question is ‘when?’, but we don’t see that any time 
+soon. 
+
+
+The ‘Argument for the Positive’ 
+
+
+By one estimate, “a supervised deep-learning algorithm will 
+generally achieve 
+acceptable 
+performance with 
+around 
+5,000 labeled examples per category 
+and will 
+match or exceed human 
+level 
+performance when trained with a data 
+set containing 
+at least 10 million labeled examples”.22 Most currentAI models appear to be trained 
+through supervised 
+learning with “almost three-quarters of the impact from 
+advanced analytics 
+which 
+are 
+tied to use cases requiring millions 
+of labeled data 
+examples”.23 Also 
+AI systems 
+need retraining, with 
+one-third 
+of use 
+cases 
+needing 
+monthly updating, and just under 10% needing weekly refreshing.24 Lastly, training 
+data 
+is often labelled 
+manually and 
+sufficiently large and comprehensive 
+data 
+sets 
+required for training are difficult to 
+find, but those with sufficiently large 
+data sets are 
+well placed. Ironically, in supervised leaning, “machines are 
+taught, they don’t learn 
+by themselves,”25 reinforcing our view that ‘Machines Learn, but People 
+Teach.’ 
+
+
+22 Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep learning, MIT Press, 2016. 
+23 McKinsey Global Institute, Notes from the AI Frontier. April 2018. 
+
+24 
+
+Ibid. 
+
+25 
+
+Ibid. 
+
+© 2018 
+Citigroup 
+
+
+
+6969
+August 2018 Citi GPS: Global Perspectives & Solutions 
+
+The ‘Argument for the Negative’ 
+
+
+Figure 52. CPU Deep Learning Performance 
+Has Improved 65x in 4 Years 
+
+Source: NVIDIA 
+
+
+According to NVIDIA, CPU Deep Learning performance improved 65x in the 
+four 
+years to 
+2016 (Figure 
+52). Material 
+use of ‘supervised learning’ will likely result in 
+ongoing demand for companies providing 
+the training 
+data, but if ‘unsupervised 
+learning’ 
+— 
+where machine learning algorithms draw inferences 
+from datasets 
+consisting of input data without labeled responses 
+— 
+materially displaces 
+supervised 
+learning, companies providing 
+the training 
+data could be challenged 
+over time. 
