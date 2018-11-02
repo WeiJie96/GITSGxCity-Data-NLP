@@ -1,0 +1,26 @@
+a) Pre-processing:
+1) remove \n, \r (global redundant)
+3) remove figure-source (global redundant)
+4) remove redundant words (citi, citigroup etc.) (global redundant)
+
+
+remove stopword
+
+
+b) Matrix algo:
+1) one matrix per txt file.
+2) final_score = [tan-1(score)/pi] + 1/2   (0,1)
+
+
+c) Frequency algo:
+1) keep a global count stem list (stored as a pkl object).
+2) normalize (0,1)
+
+KIV
+d) Keyword algo
+1) Use keywords() function, to keep a global count stem list (stored as a pkl object).
+2) normalize (0, 1)
+
+e) Overall scoring
+Multiply score from b) and c) together
+KIV Multiply score from b), c) and d) together
