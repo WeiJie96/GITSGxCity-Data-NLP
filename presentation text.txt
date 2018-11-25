@@ -1,0 +1,34 @@
+TextRank algorithm (Similarity Matrix using Glove)
+
+- Compare similarities between sentences, the most representative sentences will get the highest scores. (Within article)
+
+
+Term Frequency algorithm 
+
+- Compare word frequency to a knowledge base of words which had been trained prior. (Between articles)
+
+multiply instead of sum
+
+- we want them to be good in both algorithms and not just specially in one and not as good in the other. It has to be good across different articles, as well as good within the article itself.
+
+Normalize
+
+-to make it [0,1] to give them both equal weightage.
+
+Arranged the final output based on order they appeared in the original article, so that the flow in the article is retained.
+
+Why is the title of bla bla present?
+We should have detected titlecase to remove titles because although they give a brief overview of what is the content below, it rarely ever does encapsulate the important information.
+
+Why not neural networks?
+
+-Easily overfitted due to small amount of data.
+
+Why not pre-trained neural networks?
+
+-We couldn't find one which is specific enough for this domain of finance and technology.
+
+Rebut idf
+
+- we tried it for the first 12 training data, but the results were not as good. Our theory is that for one, the training data for too small for us to 
+identify unique keywords that are important. Also, our textrank algorithm handles the power words such as Artificial Intelligence, thus it accomplishes the role of finding words which are not as common but have great importance in this context.
